@@ -1,4 +1,4 @@
-[![MasterHead](https://in.images.search.yahoo.com/search/images;_ylt=AwrKGHCtRCdoLQIA8QO7HAx.;_ylu=Y29sbwNzZzMEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=web+developer+images&fr2=piv-web&type=E210IN885G0&fr=mcafee#id=97&iurl=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2021%2F08%2F04%2F13%2F06%2Fsoftware-developer-6521720_1280.jpg&action=click)
+[![MasterHead](https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6521720_1280.jpg)
 <h1 align="center">Hi 👋, I'm Akash Pandey</h1>
 <h3 align="center">I am studying DSA in core java and I am also learning web development right now.</h3>
 
