@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6521720_1280.jpg)
+![MasterHead](https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6521720_1280.jpg)
 <h1 align="center">Hi 👋, I'm Akash Pandey</h1>
 <h3 align="center">I am studying DSA in core java and I am also learning web development right now.</h3>
 
