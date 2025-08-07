@@ -1,6 +1,6 @@
 ![MasterHead](https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6521720_1280.jpg)
 <h1 align="center">Hi 👋, I'm Akash Pandey</h1>
-<h3 align="center">I am a third-year B.Tech student majoring in Computer Science Engineering at GCET, Greater Noida. Currently, I am studying Data Structures and Algorithms (DSA) using Core Java. I have a good command of frontend development using HTML, CSS, JavaScript, and React, and I am currently learning backend development with Node.js and Express to become a full-stack developer..</h3>
+<h3 align="center">I am a final-year B.Tech student majoring in Computer Science Engineering at GCET, Greater Noida. Currently, I am studying Data Structures and Algorithms (DSA) using Core Java. I have a good command of frontend development using HTML, CSS, JavaScript, and React, and I am currently learning backend development with Node.js and Express to become a full-stack developer..</h3>
 
 <p align="left"> <img src="https://as1.ftcdn.net/v2/jpg/07/52/29/34/1000_F_752293486_uQyJ5FyWpiYYnVGyvgY0qll28PqbEvT7.jpg /> </p>
 
