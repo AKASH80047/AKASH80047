@@ -1,11 +1,8 @@
 <p align="center">
-  <img
-    src="https://guru.com/blog/wp-content/uploads/2023/02/flutter-app-dev.jpg"
-    alt="Flutter Developer Banner"
-    width="100%"
-  />
+  <img src="https://guru.com/blog/wp-content/uploads/2023/02/flutter-app-dev.jpg"
+       alt="Flutter Developer Banner"
+       width="75%">
 </p>
-
 <h1 align="center">Hi 👋, I'm Akash Pandey</h1>
 
 <h3 align="center">
