@@ -1,4 +1,10 @@
-![MasterHead](https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6521720_1280.jpg)
+<p align="center">
+  <img
+    src="https://guru.com/blog/wp-content/uploads/2023/02/flutter-app-dev.jpg"
+    alt="Flutter Developer Banner"
+    width="100%"
+  />
+</p>
 
 <h1 align="center">Hi 👋, I'm Akash Pandey</h1>
 
@@ -137,7 +143,7 @@ Flutter Developer | Mobile App Developer | Firebase | REST APIs | Clean Architec
 📧 Email: **akp991892@gmail.com**
 
 💼 LinkedIn:
-https://linkedin.com/in/YOUR_LINKEDIN
+https:https://www.linkedin.com/in/akash106/
 
 🌐 Portfolio:
 https://YOUR_PORTFOLIO
