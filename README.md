@@ -4,7 +4,7 @@
   <p><strong>Full-Time Flutter Developer @ ACME INFOSOFT | Mobile Systems Architect | Cross-Platform Specialist</strong></p>
 
   <p>
-    <a href="https://akp991892-portfolio.web.app"><img src="https://img.shields.io/badge/Live%20Portfolio-akp991892--portfolio.web.app-007ACC?style=for-the-badge&logo=firebase&logoColor=white" /></a>
+    <a href="https://akash-pandey-portfolio.web.app"><img src="https://img.shields.io/badge/Live%20Portfolio-akash--pandey--portfolio.web.app-007ACC?style=for-the-badge&logo=firebase&logoColor=white" /></a>
     <a href="https://linkedin.com/in/akash106"><img src="https://img.shields.io/badge/LinkedIn-Akash%20Pandey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://wa.me/917428342558"><img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
     <a href="mailto:akp991892@gmail.com"><img src="https://img.shields.io/badge/Email-akp991892%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -48,7 +48,7 @@
 #### 2. 🛍️ [AppleCart — Modern E-Commerce Application](https://github.com/AKASH80047/AppleCart)
 - Full-featured shopping application with REST API product catalog, dynamic cart management, checkout workflows, and user authentication.
 
-#### 3. 🌐 [Personal Portfolio Web Application](https://github.com/AKASH80047/Portfolio) — [Live Demo](https://akp991892-portfolio.web.app)
+#### 3. 🌐 [Personal Portfolio Web Application](https://github.com/AKASH80047/Portfolio) — [Live Demo](https://akash-pandey-portfolio.web.app)
 - Production Flutter Web portfolio app deployed on Firebase Hosting with responsive mobile, tablet, and desktop views.
 
 #### 4. 📝 [Online Examination & Quiz System](https://github.com/AKASH80047/Online-Exam-Portal)
@@ -74,7 +74,7 @@
 
 <div align="center">
 
-  <a href="https://akp991892-portfolio.web.app"><img src="https://img.shields.io/badge/Website-akp991892--portfolio.web.app-007ACC?style=for-the-badge&logo=firebase&logoColor=white" /></a>
+  <a href="https://akash-pandey-portfolio.web.app"><img src="https://img.shields.io/badge/Website-akash--pandey--portfolio.web.app-007ACC?style=for-the-badge&logo=firebase&logoColor=white" /></a>
   <a href="https://linkedin.com/in/akash106"><img src="https://img.shields.io/badge/LinkedIn-linkedin.com%2Fin%2Fakash106-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://wa.me/917428342558"><img src="https://img.shields.io/badge/WhatsApp-%2B91%2074283%2042558-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="mailto:akp991892@gmail.com"><img src="https://img.shields.io/badge/Email-akp991892%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
