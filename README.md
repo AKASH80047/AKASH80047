@@ -2,7 +2,7 @@
 
   <!-- TOP ANIMATED LUXURY HEADER -->
   <a href="https://akp991892-portfolio.web.app" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=260&section=header&text=Akash%20Pandey&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Senior%20Mobile%20App%20Architect%20%7C%20Enterprise%20Flutter%20%7C%20AI%20Integrator&descFontSize=21&descAlignY=60" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1e3a8a,100:2563eb&height=260&section=header&text=Akash%20Pandey&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Software%20Engineer%20%7C%20Flutter%20Developer%20%7C%20Open%20Source%20Contributor&descFontSize=19&descAlignY=58" width="100%" />
   </a>
 
   <!-- TYPING SVG WITH HIGH CONVERTING HOOKS -->
@@ -40,7 +40,7 @@
   </p>
 
   <p align="center">
-    <b>Transforming Bold Ideas into Scalable, Venture-Ready iOS & Android Applications</b>
+    <b>⚡ Building Scalable & High-Performance Android & iOS Applications | Enterprise Clean Architecture</b>
   </p>
 
 </div>
@@ -340,6 +340,6 @@ Whether you need a brand-new MVP, an enterprise mobile platform, or an existing 
 ⭐⭐⭐⭐⭐ "Dedicated to engineering mobile experiences that delight users and scale businesses."
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=110&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1e3a8a,100:2563eb&height=120&section=footer" width="100%"/>
 
 </div>
