@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- TOP ANIMATED LUXURY HEADER -->
-  <a href="https://akp991892-portfolio.web.app" target="_blank">
+  <a href="https://akash-pandey-portfolio.web.app/" target="_blank">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1e3a8a,100:2563eb&height=260&section=header&text=Akash%20Pandey&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Software%20Engineer%20%7C%20Flutter%20Developer%20%7C%20Open%20Source%20Contributor&descFontSize=19&descAlignY=58" width="100%" />
   </a>
 
@@ -38,7 +38,7 @@
       <img src="https://img.shields.io/badge/LinkedIn_Message-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" height="42" alt="LinkedIn" />
     </a>
     &nbsp;
-    <a href="https://akp991892-portfolio.web.app" target="_blank">
+    <a href="https://akash-pandey-portfolio.web.app/" target="_blank">
       <img src="https://img.shields.io/badge/Live_Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" height="42" alt="Portfolio" />
     </a>
   </p>
@@ -334,7 +334,7 @@ Whether you need a brand-new MVP, an enterprise mobile platform, or an existing 
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_Live_Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://akp991892-portfolio.web.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_Live_Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://akash-pandey-portfolio.web.app/)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-pandey-53b7b4272)
 &nbsp;
