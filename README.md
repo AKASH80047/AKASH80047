@@ -8,7 +8,7 @@
   <!-- TYPING SVG WITH HIGH CONVERTING HOOKS -->
   <p align="center">
     <a href="https://readme-typing-svg.herokuapp.com">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=📱+Looking+for+a+Top-Tier+Mobile+App+Developer%3F+Let's+Talk!;🚀+High-Performance+Flutter+Apps+(iOS+%26+Android)+From+Scratch;🤖+AI-Powered+Apps+%2B+Vector+RAG+%2B+Streaming+LLMs;⚡+60+FPS+Fluid+Animations+%7C+Pixel-Perfect+Figma+to+Code;🌟+Available+Now+on+Fiverr+%26+Upwork+for+New+Projects!" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=860&lines=📱+Need+a+Top-Tier+Mobile+App+Developer%3F+Let's+Talk!;🚀+Flutter+Expert+%E2%80%94+Cross-Platform+iOS+%26+Android;🤖+AI-Powered+Apps%2C+Vector+RAG+%26+Streaming+LLMs;⚡+60+FPS+Fluid+Animations+%7C+Clean+Architecture;🌟+Available+Now+on+Fiverr+%26+Upwork+for+New+Projects!" alt="Typing SVG" />
     </a>
   </p>
 
