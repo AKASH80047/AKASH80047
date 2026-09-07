@@ -1,114 +1,109 @@
 <div align="center">
 
-  <!-- TOP GRADIENT BANNER -->
+  <!-- TOP ANIMATED LUXURY HEADER -->
   <a href="https://akp991892-portfolio.web.app" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=240&section=header&text=Akash%20Pandey&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Top%20Mobile%20App%20Engineer%20%7C%20Flutter%20Architect%20%7C%20AI%20Integrator&descFontSize=20&descAlignY=62" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=260&section=header&text=Akash%20Pandey&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Senior%20Mobile%20App%20Architect%20%7C%20Enterprise%20Flutter%20%7C%20AI%20Integrator&descFontSize=21&descAlignY=60" width="100%" />
   </a>
 
-  <!-- DYNAMIC TYPING SVG -->
+  <!-- TYPING SVG WITH HIGH CONVERTING HOOKS -->
   <p align="center">
     <a href="https://readme-typing-svg.herokuapp.com">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=🚀+Need+a+High-Converting+Mobile+App%3F+Let's+Build+It!;📱+Flutter+Expert+%7C+Single+Codebase+for+iOS+%26+Android;🤖+AI-Powered+Copilots+%26+Vector+RAG+Mobile+Apps;⚡+60+FPS+Fluid+Animations+%7C+Clean+Architecture;🌟+Available+Now+for+Freelance+Contracts+%26+Fixed-Price+Projects" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=📱+Looking+for+a+Top-Tier+Mobile+App+Developer%3F+Let's+Talk!;🚀+High-Performance+Flutter+Apps+(iOS+%26+Android)+From+Scratch;🤖+AI-Powered+Apps+%2B+Vector+RAG+%2B+Streaming+LLMs;⚡+60+FPS+Fluid+Animations+%7C+Pixel-Perfect+Figma+to+Code;🌟+Available+Now+on+Fiverr+%26+Upwork+for+New+Projects!" alt="Typing SVG" />
     </a>
   </p>
 
-  <!-- LIVE AVAILABILITY STATUS BADGE -->
+  <!-- LIVE STATUS & METRICS -->
   <p align="center">
-    <img src="https://img.shields.io/badge/🟢_STATUS-AVAILABLE_FOR_NEW_PROJECTS-success?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status" />
-    <img src="https://img.shields.io/badge/⚡_RESPONSE_TIME-<1_HOUR-blueviolet?style=for-the-badge&logo=clock&logoColor=white" alt="Response Time" />
-    <img src="https://img.shields.io/badge/⭐_SATISFACTION-100%25_GUARANTEED-f5a623?style=for-the-badge&logo=star&logoColor=white" alt="Satisfaction" />
+    <img src="https://img.shields.io/badge/🟢_AVAILABILITY-OPEN_FOR_NEW_PROJECTS-00e676?style=for-the-badge&logo=statuspage&logoColor=white" alt="Availability" />
+    <img src="https://img.shields.io/badge/⚡_RESPONSE_TIME-UNDER_1_HOUR-9c27b0?style=for-the-badge&logo=clock&logoColor=white" alt="Response Time" />
+    <img src="https://img.shields.io/badge/🏆_DELIVERY-100%25_ON_TIME-ff9800?style=for-the-badge&logo=target&logoColor=white" alt="Delivery" />
+    <img src="https://img.shields.io/badge/🛡️_CODE_QUALITY-CLEAN_ARCHITECTURE-00bcd4?style=for-the-badge&logo=blueprint&logoColor=white" alt="Architecture" />
   </p>
 
-  <!-- HIRE ME DIRECT ACTION BUTTONS -->
+  <!-- HIRE ACTION BUTTONS -->
   <p align="center">
     <a href="https://www.fiverr.com/akashpandey318" target="_blank">
-      <img src="https://img.shields.io/badge/Order_on_Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" height="38" alt="Fiverr" />
+      <img src="https://img.shields.io/badge/Hire_on_Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" height="42" alt="Fiverr" />
     </a>
     &nbsp;
     <a href="https://www.upwork.com/freelancers/~01e0a297e6e580e0c0" target="_blank">
-      <img src="https://img.shields.io/badge/Hire_on_Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" height="38" alt="Upwork" />
+      <img src="https://img.shields.io/badge/Hire_on_Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" height="42" alt="Upwork" />
     </a>
     &nbsp;
     <a href="https://akp991892-portfolio.web.app" target="_blank">
-      <img src="https://img.shields.io/badge/Live_Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" height="38" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Live_Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" height="42" alt="Portfolio" />
     </a>
     &nbsp;
     <a href="mailto:akp991892@gmail.com">
-      <img src="https://img.shields.io/badge/Email_Consultation-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="38" alt="Email" />
+      <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="42" alt="Email" />
     </a>
   </p>
 
   <p align="center">
-    <i>Turn your mobile app idea into a sleek, venture-scale product. From wireframes to Apple App Store & Google Play publishing.</i>
+    <b>Transforming Bold Ideas into Scalable, Venture-Ready iOS & Android Applications</b>
   </p>
 
 </div>
 
 ---
 
-## 🎯 Why Founders & Companies Choose Me For Mobile Apps
+## 🌟 What I Bring to Your Project (The Akash Pandey Advantage)
 
 <table>
   <tr>
-    <td width="50%">
-      <h3>🚀 1. Lightning-Fast 60fps Native Performance</h3>
-      <p>I build cross-platform apps using <b>Flutter & Dart</b> that deliver true native speed, buttery 60 FPS animations, and instant gesture responses on both <b>iOS & Android</b>.</p>
+    <td width="33%" align="center">
+      <h3>🚀 Ultra-Fast 60fps Native Speed</h3>
+      <p>Zero lag, buttery 60 FPS scrolling, and native gesture fidelity on both iOS & Android with a single clean codebase.</p>
     </td>
-    <td width="50%">
-      <h3>💎 2. Pixel-Perfect UI/UX (Figma to Code)</h3>
-      <p>I transform complex Figma, Adobe XD, and Sketch designs into breathtaking, responsive interfaces with dark/light themes, micro-interactions, and Material 3 design standards.</p>
+    <td width="33%" align="center">
+      <h3>🎨 Pixel-Perfect Figma To Flutter</h3>
+      <p>100% exact design translation from Figma, Adobe XD, or Sketch with fluid micro-interactions and dark/light themes.</p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🛡️ 3. Enterprise Clean Architecture</h3>
-      <p>No messy spaghetti code. Every project uses <b>Riverpod 2.x / BLoC</b> with modular feature-first architecture, automated tests, and offline-first data caching.</p>
-    </td>
-    <td width="50%">
-      <h3>🤖 4. Modern AI & LLM Copilot Superpowers</h3>
-      <p>Supercharge your app with Generative AI (GPT-4o, Claude 3.5, Gemini Pro), intelligent conversational chat, Vector RAG search, and automated background agents.</p>
+    <td width="33%" align="center">
+      <h3>🛡️ Enterprise Clean Architecture</h3>
+      <p>Built with Riverpod 2.x / BLoC, modular feature folders, offline-first data caching, and zero spaghetti code.</p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3>🌐 5. Rock-Solid Backend & API Integration</h3>
-      <p>Expert integration with REST APIs, GraphQL, WebSockets, Dio interceptors with automatic JWT token refresh, Firebase, Supabase, and Cloud Functions.</p>
+    <td width="33%" align="center">
+      <h3>🤖 Generative AI & LLM Copilots</h3>
+      <p>Integrate cutting-edge AI (GPT-4o, Claude 3.5, Gemini Pro), Vector RAG search, and automated conversational assistants.</p>
     </td>
-    <td width="50%">
-      <h3>📦 6. 100% App Store & Play Store Approval</h3>
-      <p>I manage the entire release pipeline: provisioning profiles, app icons, splash screens, privacy manifests, store metadata, and submission support.</p>
+    <td width="33%" align="center">
+      <h3>🌐 High-Speed Cloud & API Sync</h3>
+      <p>Dio REST APIs with automatic JWT token refresh, WebSockets, Firebase, Supabase, and payment gateways.</p>
+    </td>
+    <td width="33%" align="center">
+      <h3>📦 100% Store Approval Guarantee</h3>
+      <p>Complete release engineering: Apple App Store & Google Play Store metadata, certificates, privacy manifests, and approvals.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 💼 Comprehensive Mobile Development Services
+## 💼 Development Services & Packages
 
-```mermaid
-graph LR
-    A[💡 Concept & Discovery] --> B[🎨 UI/UX & Prototyping]
-    B --> C[⚙️ Clean Architecture Coding]
-    C --> D[🧪 Automated QA & Testing]
-    D --> E[🚀 Store Publishing & Growth]
-```
+<div align="center">
 
-| 📱 Service | 🔍 What You Get | ⏱️ Turnaround |
-| :--- | :--- | :--- |
-| **Complete MVP App (iOS + Android)** | End-to-end mobile application from scratch with state management, authentication, database & API sync. | **2 - 4 Weeks** |
-| **AI-Powered Mobile Application** | Custom AI chat assistants, streaming LLM responses, Vector RAG document search, image generation integration. | **1 - 3 Weeks** |
-| **Figma / Adobe XD to Flutter Code** | 100% pixel-perfect responsive Flutter implementation with custom animations and interactive widgets. | **3 - 7 Days** |
-| **API & Cloud Backend Integration** | Connect your frontend with Firebase / Supabase / Node.js / Python REST APIs, payment gateways (Stripe, Razorpay). | **3 - 5 Days** |
-| **Bug Fixing, Speed & Performance Audit** | Fix memory leaks, laggy scroll lists, outdated packages, crashes, and optimize battery/network usage. | **24 - 48 Hours** |
+| 📦 Package | 🎯 Best For | 🛠️ Deliverables | ⏱️ Turnaround |
+| :--- | :--- | :--- | :--- |
+| **🚀 MVP App Launch** | Startups & Founders | Complete iOS + Android app, User Auth, Database, Core Features, Store Submission | **2 - 3 Weeks** |
+| **🤖 AI-Powered Mobile App** | AI Startups & Enterprises | Custom LLM Chatbot, Streaming Responses, Vector RAG Search, Smart Document Tools | **1 - 3 Weeks** |
+| **🎨 Figma to Flutter UI** | Designers & Agencies | 100% pixel-perfect responsive Flutter screens, custom animations, theme switching | **3 - 7 Days** |
+| **⚡ Backend & API Sync** | Existing Apps | REST API integration, Dio client, Firebase/Supabase, Payment Gateways (Stripe) | **3 - 5 Days** |
+| **🔧 Performance & Bug Audit** | Slow / Crashing Apps | Memory leak fixes, jank reduction, state management refactor, package upgrades | **24 - 48 Hours** |
+
+</div>
 
 ---
 
-## 🏆 Featured Live Projects & Client Showcases
+## 🏆 Featured Live App Showcases
 
 <div align="center">
 
 <table>
-  <!-- PROJECT 1 & 2 -->
+  <!-- ROW 1 -->
   <tr>
     <td width="50%" valign="top">
       <div align="center">
@@ -118,11 +113,11 @@ graph LR
       <ul>
         <li>⚡ Real-time token streaming with <b>GPT-4o, Claude 3.5 & Gemini 1.5 Pro</b>.</li>
         <li>⚡ Vector RAG semantic search powered by <b>Pinecone</b>.</li>
-        <li>⚡ Multi-agent automated candidate matching & resume intelligence.</li>
+        <li>⚡ Automated candidate evaluation pipelines & resume analytics.</li>
       </ul>
       <p align="center">
         <a href="https://github.com/AKASH80047/Portfolio">
-          <img src="https://img.shields.io/badge/View_Architecture_&_Repo-000000?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/Explore_Source_Code-000000?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
@@ -132,7 +127,7 @@ graph LR
         <p><b>Production-Grade Music & Podcast Platform</b></p>
       </div>
       <ul>
-        <li>⚡ Background audio playback & lock-screen media controls.</li>
+        <li>⚡ Background audio playback & lock-screen media notification controls.</li>
         <li>⚡ <b>JustAudio + AudioService + Riverpod</b> state orchestration.</li>
         <li>⚡ Offline audio caching, waveform visualizers & playlist management.</li>
       </ul>
@@ -144,7 +139,7 @@ graph LR
     </td>
   </tr>
 
-  <!-- PROJECT 3 & 4 -->
+  <!-- ROW 2 -->
   <tr>
     <td width="50%" valign="top">
       <div align="center">
@@ -152,8 +147,8 @@ graph LR
         <p><b>Full-Featured Mobile Shopping Experience</b></p>
       </div>
       <ul>
-        <li>⚡ Dynamic product catalog, search filters, and persistent cart.</li>
-        <li>⚡ Secure checkout, coupon codes, and order tracking.</li>
+        <li>⚡ Dynamic product catalog, multi-filter search & persistent cart.</li>
+        <li>⚡ Secure checkout, coupon codes, and live order tracking.</li>
         <li>⚡ BLoC pattern + Dio REST interceptors with token refresh.</li>
       </ul>
       <p align="center">
@@ -180,7 +175,7 @@ graph LR
     </td>
   </tr>
 
-  <!-- PROJECT 5 & 6 -->
+  <!-- ROW 3 -->
   <tr>
     <td width="50%" valign="top">
       <div align="center">
@@ -221,16 +216,16 @@ graph LR
 
 ---
 
-## 🛠️ Complete Technical Arsenal & Toolkit
+## 🛠️ Complete Technical Stack & Toolkit
 
 <div align="center">
 
 ### 📱 Mobile Frameworks & Core Languages
 <p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/iOS_Development-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_Development-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter_3.x-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart_3.x-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/iOS_Native-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Native-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -267,7 +262,7 @@ graph LR
 ### 🛠️ Developer Tools & DevOps
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions_CI/CD-181717?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-181717?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
@@ -279,25 +274,25 @@ graph LR
 
 ---
 
-## 🤝 How We Will Work Together (Client Guarantee)
+## 🤝 How We Work Together (Zero-Risk Client Guarantee)
 
 ```
-1️⃣ Free Discovery & Requirements Scoping (We discuss your goals, features, and timeline)
-2️⃣ Interactive UI/UX Wireframing & Tech Stack Architecture
-3️⃣ Agile Sprint Development (Regular testable APK & TestFlight builds sent to you)
-4️⃣ Strict QA, Performance Optimization & Security Testing
-5️⃣ App Store & Google Play Store Submission
-6️⃣ 30 Days Free Post-Launch Support & Maintenance
+1️⃣ Free Consultation & Scoping  ➔ We define your features, budget, and timeline.
+2️⃣ Architecture & UI Prototype  ➔ You review the interactive wireframe and tech architecture.
+3️⃣ Agile Sprints & Demos        ➔ You receive regular testable APK & TestFlight iOS builds.
+4️⃣ Rigorous QA & Optimization   ➔ 0-crash guarantee, security audits & battery profiling.
+5️⃣ App Store & Play Publishing  ➔ I handle certificates, metadata, and submission until live.
+6️⃣ 30 Days Free Post-Launch     ➔ Continuous bug support and performance maintenance.
 ```
 
-> **🛡️ Zero-Risk Guarantee:**
-> - **100% Intellectual Property (IP) & Code Ownership** transferred upon completion.
-> - **Daily Communication** via Fiverr, Upwork, Slack, or Email with recorded demo videos.
-> - **Milestone-Based Escrow Payments** — you only release funds when you are 100% satisfied with the deliverables.
+> **🛡️ 100% Client Protections:**
+> - **Full Intellectual Property (IP) Ownership**: Complete source code and repository rights transferred to you.
+> - **Transparent Daily Communication**: Updates with recorded demo videos via Fiverr, Upwork, Slack, or Email.
+> - **Milestone-Based Escrow**: Funds are only released when you are completely satisfied with each milestone.
 
 ---
 
-## 📊 Live GitHub Statistics & Activity
+## 📊 Live GitHub Activity & Statistics
 
 <div align="center">
   <table border="0">
@@ -319,9 +314,9 @@ graph LR
 
 ---
 
-## 🚀 Ready to Launch Your Next Million-Dollar App?
+## 🚀 Ready to Launch Your Next App? Let's Build It!
 
-Whether you need a full app developed from scratch, an existing codebase rewritten for speed, or an intelligent AI agent integrated into your product — **I'm ready to turn your vision into reality.**
+Whether you need a brand-new MVP, an enterprise mobile platform, or an existing app upgraded for speed — **I am ready to bring your vision to life.**
 
 <div align="center">
 
@@ -342,7 +337,7 @@ Whether you need a full app developed from scratch, an existing codebase rewritt
 <br/>
 
 ```
-⭐⭐⭐⭐⭐ "Building high-performance mobile applications that users love and businesses scale on."
+⭐⭐⭐⭐⭐ "Dedicated to engineering mobile experiences that delight users and scale businesses."
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=110&section=footer" width="100%"/>
