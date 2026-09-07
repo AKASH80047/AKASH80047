@@ -98,7 +98,7 @@
 
 ---
 
-## 🏆 Featured Live App Showcases
+## 🏆 Featured Mobile & AI App Showcases
 
 <div align="center">
 
@@ -107,33 +107,33 @@
   <tr>
     <td width="50%" valign="top">
       <div align="center">
-        <h3>🤖 Handshake Platform — AI Copilot & RAG</h3>
-        <p><b>Enterprise Multi-Agent AI Mobile & Web Workspace</b></p>
+        <h3>🎵 Feel Every Beat — Music & Podcast Streaming</h3>
+        <p><b>Production-Grade Audio Streaming Mobile App</b></p>
       </div>
       <ul>
-        <li>⚡ Real-time token streaming with <b>GPT-4o, Claude 3.5 & Gemini 1.5 Pro</b>.</li>
-        <li>⚡ Vector RAG semantic search powered by <b>Pinecone</b>.</li>
-        <li>⚡ Automated candidate evaluation pipelines & resume analytics.</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/AKASH80047/Portfolio">
-          <img src="https://img.shields.io/badge/Explore_Source_Code-000000?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>🎵 Feel Every Beat — Audio Streaming App</h3>
-        <p><b>Production-Grade Music & Podcast Platform</b></p>
-      </div>
-      <ul>
-        <li>⚡ Background audio playback & lock-screen media notification controls.</li>
+        <li>⚡ Background audio playback & lock-screen media controls.</li>
         <li>⚡ <b>JustAudio + AudioService + Riverpod</b> state orchestration.</li>
         <li>⚡ Offline audio caching, waveform visualizers & playlist management.</li>
       </ul>
       <p align="center">
         <a href="https://github.com/AKASH80047/Feel-Every-Beat-">
-          <img src="https://img.shields.io/badge/Explore_App_Source-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+          <img src="https://img.shields.io/badge/Explore_Source_Code-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>🛍️ AppleCart — Modern E-Commerce Suite</h3>
+        <p><b>Full-Featured Mobile Shopping Experience</b></p>
+      </div>
+      <ul>
+        <li>⚡ Dynamic product catalog, multi-filter search & persistent cart.</li>
+        <li>⚡ Secure checkout flow, coupon codes & order tracking.</li>
+        <li>⚡ BLoC pattern + Dio REST interceptors with token refresh.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/AKASH80047/AppleCart">
+          <img src="https://img.shields.io/badge/Explore_Store_App-FF6B6B?style=for-the-badge&logo=shopify&logoColor=white" />
         </a>
       </p>
     </td>
@@ -143,20 +143,40 @@
   <tr>
     <td width="50%" valign="top">
       <div align="center">
-        <h3>🛍️ AppleCart — Modern E-Commerce Suite</h3>
-        <p><b>Full-Featured Mobile Shopping Experience</b></p>
+        <h3>💬 iChat — Real-Time Chat & Messaging App</h3>
+        <p><b>Instant 1-to-1 & Group Messaging Platform</b></p>
       </div>
       <ul>
-        <li>⚡ Dynamic product catalog, multi-filter search & persistent cart.</li>
-        <li>⚡ Secure checkout, coupon codes, and live order tracking.</li>
-        <li>⚡ BLoC pattern + Dio REST interceptors with token refresh.</li>
+        <li>⚡ Real-time messaging, online/offline presence & typing indicators.</li>
+        <li>⚡ Media file sharing, push notifications & message history.</li>
+        <li>⚡ Secure authentication & encrypted cloud database storage.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/AKASH80047/AppleCart">
-          <img src="https://img.shields.io/badge/View_Store_App-FF6B6B?style=for-the-badge&logo=shopify&logoColor=white" />
+        <a href="https://github.com/AKASH80047/ichat">
+          <img src="https://img.shields.io/badge/Explore_Chat_App-0088CC?style=for-the-badge&logo=telegram&logoColor=white" />
         </a>
       </p>
     </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>🤖 Peblo AI — AI Story Buddy & Quiz Engine</h3>
+        <p><b>Generative AI Powered Interactive Mobile Experience</b></p>
+      </div>
+      <ul>
+        <li>⚡ AI interactive story generation & dynamic comprehension quiz.</li>
+        <li>⚡ Child-friendly conversational AI interface with speech synthesis.</li>
+        <li>⚡ Built with Flutter, REST AI integrations & reactive state.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/AKASH80047/Peblo-AI-Story-Buddy">
+          <img src="https://img.shields.io/badge/Explore_AI_App-8E75C2?style=for-the-badge&logo=openai&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+
+  <!-- ROW 3 -->
+  <tr>
     <td width="50%" valign="top">
       <div align="center">
         <h3>💰 Expense Tracker — Personal Finance App</h3>
@@ -168,15 +188,11 @@
         <li>⚡ Offline-first data synchronization with Firebase Cloud.</li>
       </ul>
       <p align="center">
-        <a href="https://expense-tracker-81bcf.web.app" target="_blank">
-          <img src="https://img.shields.io/badge/Try_Live_Web_Demo-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white" />
+        <a href="https://github.com/AKASH80047/Expense-Tracker">
+          <img src="https://img.shields.io/badge/Explore_Finance_App-4CAF50?style=for-the-badge&logo=firebase&logoColor=white" />
         </a>
       </p>
     </td>
-  </tr>
-
-  <!-- ROW 3 -->
-  <tr>
     <td width="50%" valign="top">
       <div align="center">
         <h3>📝 Online Examination & Quiz Portal</h3>
@@ -188,24 +204,8 @@
         <li>⚡ Multi-tier role permissions (Admin, Teacher, Student).</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/AKASH80047/Online-Exam-Portal">
-          <img src="https://img.shields.io/badge/View_Exam_Engine-9C27B0?style=for-the-badge&logo=gitbook&logoColor=white" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>🌐 Akash Pandey — Personal Web Portfolio</h3>
-        <p><b>Interactive Flutter Web Showcase</b></p>
-      </div>
-      <ul>
-        <li>⚡ Responsive layouts across Desktop, Tablet, and Mobile screens.</li>
-        <li>⚡ Interactive project cards, skills matrix, and direct contact portal.</li>
-        <li>⚡ High-speed asset caching on Firebase Hosting.</li>
-      </ul>
-      <p align="center">
-        <a href="https://akp991892-portfolio.web.app" target="_blank">
-          <img src="https://img.shields.io/badge/Open_Portfolio-007ACC?style=for-the-badge&logo=googlechrome&logoColor=white" />
+        <a href="https://github.com/AKASH80047/Online-Examination-System">
+          <img src="https://img.shields.io/badge/Explore_Exam_Portal-9C27B0?style=for-the-badge&logo=gitbook&logoColor=white" />
         </a>
       </p>
     </td>
