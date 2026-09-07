@@ -20,22 +20,26 @@
     <img src="https://img.shields.io/badge/🛡️_CODE_QUALITY-CLEAN_ARCHITECTURE-00bcd4?style=for-the-badge&logo=blueprint&logoColor=white" alt="Architecture" />
   </p>
 
-  <!-- HIRE ACTION BUTTONS -->
+  <!-- HIRE ACTION & INSTANT MESSAGE BUTTONS -->
   <p align="center">
     <a href="https://www.fiverr.com/akashpandey318" target="_blank">
-      <img src="https://img.shields.io/badge/Hire_on_Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" height="42" alt="Fiverr" />
+      <img src="https://img.shields.io/badge/Message_on_Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" height="42" alt="Fiverr" />
     </a>
     &nbsp;
-    <a href="https://www.upwork.com/freelancers/~01e0a297e6e580e0c0" target="_blank">
-      <img src="https://img.shields.io/badge/Hire_on_Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" height="42" alt="Upwork" />
+    <a href="https://wa.me/918004719992" target="_blank">
+      <img src="https://img.shields.io/badge/WhatsApp_Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="42" alt="WhatsApp" />
+    </a>
+    &nbsp;
+    <a href="mailto:akp991892@gmail.com?subject=Mobile%20App%20Development%20Inquiry%20-%20Akash%20Pandey&body=Hi%20Akash,%0A%0AI%20saw%20your%20GitHub%20portfolio%20and%20would%20like%20to%20discuss%20a%20mobile%20app%20project.">
+      <img src="https://img.shields.io/badge/Direct_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="42" alt="Email" />
+    </a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/akash-pandey-53b7b4272" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn_Message-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" height="42" alt="LinkedIn" />
     </a>
     &nbsp;
     <a href="https://akp991892-portfolio.web.app" target="_blank">
       <img src="https://img.shields.io/badge/Live_Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" height="42" alt="Portfolio" />
-    </a>
-    &nbsp;
-    <a href="mailto:akp991892@gmail.com">
-      <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="42" alt="Email" />
     </a>
   </p>
 
@@ -322,17 +326,19 @@ Whether you need a brand-new MVP, an enterprise mobile platform, or an existing 
 
 <br/>
 
-[![Hire on Fiverr](https://img.shields.io/badge/🎯_Order_Directly_on_Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/akashpandey318)
+[![Message on Fiverr](https://img.shields.io/badge/🎯_Message_on_Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/akashpandey318)
 &nbsp;
-[![Hire on Upwork](https://img.shields.io/badge/💼_Hire_Me_on_Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01e0a297e6e580e0c0)
+[![Chat on WhatsApp](https://img.shields.io/badge/💬_Chat_on_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918004719992)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_Live_Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://akp991892-portfolio.web.app)
+[![Hire on Upwork](https://img.shields.io/badge/💼_Hire_on_Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01e0a297e6e580e0c0)
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_Live_Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://akp991892-portfolio.web.app)
+&nbsp;
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-pandey-53b7b4272)
 &nbsp;
-[![Send Email](https://img.shields.io/badge/Direct_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akp991892@gmail.com)
+[![Send Email](https://img.shields.io/badge/Direct_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akp991892@gmail.com?subject=Mobile%20App%20Inquiry%20from%20GitHub)
 
 <br/>
 
