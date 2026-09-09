@@ -1,122 +1,121 @@
 <div align="center">
 
-  <!-- TOP ANIMATED LUXURY HEADER -->
+  <!-- HERO BANNER -->
   <a href="https://akash-pandey-portfolio.web.app/" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1e3a8a,100:2563eb&height=260&section=header&text=Akash%20Pandey&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Senior%20Mobile%20Engineer%20%7C%20Flutter%20Architect%20%7C%20Open%20Source%20Contributor&descFontSize=18&descAlignY=58" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,30:0f172a,70:1e293b,100:2563eb&height=240&section=header&text=Akash%20Pandey&fontSize=48&fontColor=f8fafc&animation=fadeIn&fontAlignY=36&desc=Senior%20Mobile%20Engineer%20%E2%80%A2%20Flutter%20%26%20Systems%20Architect%20%E2%80%A2%20Open%20Source%20Contributor&descFontSize=17&descAlignY=60" width="100%" alt="Akash Pandey Header" />
   </a>
 
-  <!-- TYPING SVG WITH HIGH CONVERTING HOOKS -->
+  <!-- DYNAMIC TYPING HOOKS -->
   <p align="center">
     <a href="https://readme-typing-svg.herokuapp.com">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=860&lines=📱+Senior+Mobile+App+Engineer+%E2%80%94+iOS+%26+Android;🚀+Flutter+Architect+%7C+Riverpod%2C+BLoC+%26+Clean+Architecture;🤖+AI-Powered+Apps%2C+Vector+RAG+%26+Streaming+LLMs;⚡+36%2B+Open+Source+Contributions+in+Tier-1+Global+Repos;🌟+Available+for+Freelance%2C+Bounties+%26+High-Impact+Projects!" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=1200&color=38BDF8&center=true&vCenter=true&width=840&lines=Senior+Mobile+App+Engineer+%7C+iOS+%26+Android;Flutter+Architect+%7C+Riverpod%2C+BLoC+%26+Clean+Architecture;Open+Source+Contributor+%7C+36%2B+PRs+in+Tier-1+Global+Repositories;AI+%26+LLM+Integrations+%7C+Streaming+Assistants+%26+Vector+RAG;Available+for+High-Impact+Engineering+Roles+%26+Consulting" alt="Typing SVG" />
     </a>
   </p>
 
-  <!-- LIVE STATUS & METRICS BADGES -->
+  <!-- REFINED STATUS BADGES -->
   <p align="center">
-    <img src="https://img.shields.io/badge/🟢_AVAILABILITY-OPEN_FOR_PROJECTS-00e676?style=for-the-badge&logo=statuspage&logoColor=white" alt="Availability" />
-    <img src="https://img.shields.io/badge/⚡_RESPONSE_TIME-UNDER_1_HOUR-9c27b0?style=for-the-badge&logo=clock&logoColor=white" alt="Response Time" />
-    <img src="https://img.shields.io/badge/🏆_CONTRIBUTIONS-269%2B_LIFETIME-ff9800?style=for-the-badge&logo=github&logoColor=white" alt="Contributions" />
-    <img src="https://img.shields.io/badge/🛡️_CODE_QUALITY-CLEAN_ARCHITECTURE-00bcd4?style=for-the-badge&logo=blueprint&logoColor=white" alt="Architecture" />
+    <a href="https://github.com/AKASH80047"><img src="https://img.shields.io/badge/Status-Open_for_Consulting_%26_Roles-0284c7?style=flat-square&logo=github&logoColor=white" alt="Status" /></a>
+    <a href="https://github.com/AKASH80047"><img src="https://img.shields.io/badge/Contributions-269%2B_Lifetime-2563eb?style=flat-square&logo=git&logoColor=white" alt="Contributions" /></a>
+    <a href="https://github.com/AKASH80047"><img src="https://img.shields.io/badge/Architecture-Clean_%26_Offline--First-0f766e?style=flat-square&logo=blueprint&logoColor=white" alt="Architecture" /></a>
+    <a href="https://github.com/AKASH80047"><img src="https://img.shields.io/badge/Response_Time-%3C_1_Hour-7c3aed?style=flat-square&logo=clock&logoColor=white" alt="Response" /></a>
   </p>
 
-  <!-- INSTANT CONNECT & HIRE ACTION BUTTONS -->
+  <!-- CLEAN CONTACT MATRIX -->
   <p align="center">
-    <a href="https://www.fiverr.com/akashpandey318" target="_blank">
-      <img src="https://img.shields.io/badge/Message_on_Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" height="42" alt="Fiverr" />
-    </a>
-    &nbsp;
-    <a href="https://www.upwork.com/freelancers/~01e0a297e6e580e0c0" target="_blank">
-      <img src="https://img.shields.io/badge/Hire_on_Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" height="42" alt="Upwork" />
-    </a>
-    &nbsp;
-    <a href="https://wa.me/918004719992" target="_blank">
-      <img src="https://img.shields.io/badge/WhatsApp_Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="42" alt="WhatsApp" />
-    </a>
-    &nbsp;
     <a href="https://akash-pandey-portfolio.web.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Live_Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" height="42" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Portfolio-akash--pandey--portfolio-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white" height="28" alt="Portfolio" />
     </a>
     &nbsp;
     <a href="https://www.linkedin.com/in/akash-pandey-53b7b4272" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn_Profile-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" height="42" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-Akash_Pandey-0077b5?style=flat-square&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" />
     </a>
     &nbsp;
-    <a href="mailto:akp991892@gmail.com?subject=Project%20Inquiry%20-%20Akash%20Pandey">
-      <img src="https://img.shields.io/badge/Direct_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="42" alt="Email" />
+    <a href="mailto:akp991892@gmail.com">
+      <img src="https://img.shields.io/badge/Email-akp991892%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" height="28" alt="Email" />
+    </a>
+    &nbsp;
+    <a href="https://wa.me/918004719992" target="_blank">
+      <img src="https://img.shields.io/badge/WhatsApp-%2B91_8004719992-25d366?style=flat-square&logo=whatsapp&logoColor=white" height="28" alt="WhatsApp" />
+    </a>
+    &nbsp;
+    <a href="https://www.upwork.com/freelancers/~01e0a297e6e580e0c0" target="_blank">
+      <img src="https://img.shields.io/badge/Upwork-Top_Rated_Profile-14a800?style=flat-square&logo=upwork&logoColor=white" height="28" alt="Upwork" />
+    </a>
+    &nbsp;
+    <a href="https://www.fiverr.com/akashpandey318" target="_blank">
+      <img src="https://img.shields.io/badge/Fiverr-Pro_Developer-1dbf73?style=flat-square&logo=fiverr&logoColor=white" height="28" alt="Fiverr" />
     </a>
   </p>
 
-  <p align="center">
-    <b>⚡ Building Enterprise-Scale iOS & Android Mobile Apps | Generative AI Solutions | Distributed Cloud Systems</b>
-  </p>
-
 </div>
 
 ---
 
-## 📊 Contribution & Impact Analytics Overview
+## 👨‍💻 Executive Summary
+
+I am a **Senior Mobile Engineer & Systems Architect** specializing in building high-performance, mission-critical mobile applications on **iOS & Android** using **Flutter / Dart**, alongside native platform bindings and backend microservices. 
+
+- 🚀 **Performance Obsessed**: 60 FPS buttery fluid animations, aggressive memory optimization, zero-leak resource lifecycles.
+- 🏗️ **Architectural Rigor**: Enterprise Clean Architecture, Domain-Driven Design (DDD), immutable reactive states (Riverpod, BLoC), and offline-first synchronization.
+- 🌐 **Deep Open-Source Track Record**: **36+ authored Pull Requests** and contributions across high-impact global projects including `microg/GmsCore`, `organicmaps`, `software-mansion/react-native-gesture-handler`, `typeorm`, and `super_editor`.
+- 🤖 **Modern AI Integration**: Real-time streaming LLM clients (OpenAI GPT-4o, Claude 3.5, Gemini Pro), client-side embeddings, and Vector RAG search.
+
+---
+
+## 📈 Engineering Analytics & Key Performance Indicators
 
 <div align="center">
 
-| Metric | Count / Level | Description & Scope |
+| Core Metric | Score / Level | Context & Impact |
 | :--- | :---: | :--- |
-| **📈 Lifetime Contributions** | **269+** | Verified contributions across public & ecosystem repositories |
-| **🔥 2026 Year-To-Date Activity** | **225+** | High-velocity contributions across Flutter, Android, Go & Cloud |
-| **🚀 Total Authored Pull Requests** | **36+** | Production features, critical bugfixes & architecture implementations |
-| **📦 Repositories Maintained** | **61+** | Mobile applications, full-stack systems, templates & tools |
-| **💎 Bounty & Open Source Wins** | **Multiple** | Successful contributions to RustChain, SuperEditor, Claude Bounties & Lux |
-| **⚡ Turnaround Time** | **< 24h** | Fast prototyping, CI/CD automated verification, and clean delivery |
+| **⚡ Lifetime GitHub Contributions** | **269+** | Consistent open-source & production code across 2023–2026 |
+| **🔥 2026 Year-to-Date Commits & PRs** | **225+** | High-velocity feature delivery and upstream bugfixes |
+| **🛠️ Global Pull Requests Authored** | **36+** | Multi-ecosystem contributions: Android Core, Flutter, Go, TypeScript |
+| **📦 Codebases Engineered** | **61** | 59 public open-source repos & enterprise clients |
+| **🎯 On-Time Delivery & Quality** | **100%** | Zero-warning CI standards, strict linting & automated testing |
 
 </div>
 
 ---
 
-## 🌍 Tier-1 Open Source & High-Impact Contributions
+## 🌍 Tier-1 Global Open Source Contributions
 
 <div align="center">
 
-### 🌟 1. Core Android, Framework & Ecosystem Engineering
+### 📱 1. Mobile Ecosystem, Android Core & UI Frameworks
 
-| Organization / Repository | Focus & Contribution Details | Status |
+| Repository / Organization | Scope & Architectural Contribution | Pull Request & Status |
 | :--- | :--- | :---: |
-| **[microg / GmsCore](https://github.com/microg/GmsCore)** | Built SMS autofill & browser callbacks for RCS carrier verification ([PR #3791](https://github.com/microg/GmsCore/pull/3791)) + WearableService transaction handler ([PR #3790](https://github.com/microg/GmsCore/pull/3790)) | 🟢 Active |
-| **[organicmaps / organicmaps](https://github.com/organicmaps/organicmaps)** | Engineered automated App Store screenshot generator pipeline for Android ([PR #13530](https://github.com/organicmaps/organicmaps/pull/13530)) | 🟢 Active |
-| **[software-mansion / react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler)** | Fixed Yoga layout assertion crashes in Fabric `RNGestureHandlerDetectorShadowNode` ([PR #4500](https://github.com/software-mansion/react-native-gesture-handler/pull/4500)) | 🟢 Active |
-| **[typeorm / typeorm](https://github.com/typeorm/typeorm)** | Fixed column recreation during rename ([PR #12852](https://github.com/typeorm/typeorm/pull/12852)) & nested array criteria normalization ([PR #12851](https://github.com/typeorm/typeorm/pull/12851)) | 🟢 Active |
-| **[autokey / autokey](https://github.com/autokey/autokey)** | Implemented Wayland session auto-detection with fallback to `AtSpiInterface` ([PR #1192](https://github.com/autokey/autokey/pull/1192)) | 🟢 Active |
-| **[Flutter-Bounty-Hunters / super_editor](https://github.com/Flutter-Bounty-Hunters/super_editor)** | Optimized spellcheck bounds updates ([PR #3099](https://github.com/Flutter-Bounty-Hunters/super_editor/pull/3099)) & added inline widget builders ([PR #3098](https://github.com/Flutter-Bounty-Hunters/super_editor/pull/3098)) | 🟣 Verified |
+| **[microg / GmsCore](https://github.com/microg/GmsCore)** | Implemented SMS code autofill and browser callbacks for RCS carrier verification; optimized WearableService transaction handler | 🟢 **[PR #3791](https://github.com/microg/GmsCore/pull/3791)** & **[PR #3790](https://github.com/microg/GmsCore/pull/3790)** |
+| **[organicmaps / organicmaps](https://github.com/organicmaps/organicmaps)** | Engineered automated multi-locale App Store screenshot generation pipeline for Android | 🟢 **[PR #13530](https://github.com/organicmaps/organicmaps/pull/13530)** |
+| **[software-mansion / react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler)** | Resolved Yoga layout assertion crash in New Architecture Fabric `RNGestureHandlerDetectorShadowNode` | 🟢 **[PR #4500](https://github.com/software-mansion/react-native-gesture-handler/pull/4500)** |
+| **[Flutter-Bounty-Hunters / super_editor](https://github.com/Flutter-Bounty-Hunters/super_editor)** | Optimized spellcheck update bounds during continuous editing & implemented inline widget builders | 🟣 **[PR #3099](https://github.com/Flutter-Bounty-Hunters/super_editor/pull/3099)** & **[PR #3098](https://github.com/Flutter-Bounty-Hunters/super_editor/pull/3098)** |
+| **[RamG222 / Alphabet-News](https://github.com/RamG222/Alphabet-News)** | Modernized Flutter architecture, migrated legacy deprecated APIs, and instituted strict static analysis | 🟣 **[Merged PR #3](https://github.com/RamG222/Alphabet-News/pull/3)** |
+| **[Kaap10 / Build-With-AI](https://github.com/Kaap10/build-with-ai)** | Authored production-ready 16-Step Flutter & Dart Clean Architecture Workflow Framework | 🟣 **[Merged PR #30](https://github.com/Kaap10/build-with-ai/pull/30)** |
+| **[tranguyeenn / ShelfTxt](https://github.com/tranguyeenn/shelftxt)** | Architected Flutter Mobile Foundation with Dio interceptors, auto JWT refresh, and MVVM architecture | 🟢 **[PR #31](https://github.com/tranguyeenn/shelftxt/pull/31)** |
+| **[johnny603 / Lux](https://github.com/johnny603/lux)** | Built Flutter Mobile Catalog Client with dynamic API discovery & 28/28 unit and widget test suite | 🟢 **[Active Bounty PR #48](https://github.com/johnny603/lux/pull/48)** |
+| **[aau-giraf / Visual-Tangible-Artefacts](https://github.com/aau-giraf/visual-tangible-artefacts)** | Resolved 81 analyzer issues and enforced zero-warning CI pipelines | 🟢 **[PR #309](https://github.com/aau-giraf/visual-tangible-artefacts/pull/309)** |
+| **[DhanushNehru / Ciraft](https://github.com/DhanushNehru/ciraft)** | Implemented automated Flutter stack detection and multi-stage CI workflow generator | 🟢 **[PR #40](https://github.com/DhanushNehru/ciraft/pull/40)** |
 
-### 📱 2. Flutter & Mobile Production Architecture
+### ⚙️ 2. Cloud Infrastructure, Distributed Systems & Go
 
-| Organization / Repository | Focus & Contribution Details | Status |
+| Repository / Organization | Scope & Architectural Contribution | Pull Request & Status |
 | :--- | :--- | :---: |
-| **[Kaap10 / Build-With-AI](https://github.com/Kaap10/build-with-ai)** | Created production-grade 16-step Flutter & Dart Clean Architecture Workflow Template | 🟣 **Merged (PR #30)** |
-| **[RamG222 / Alphabet-News](https://github.com/RamG222/Alphabet-News)** | Modernized entire Flutter codebase, migrated deprecated APIs & established strict linting | 🟣 **Merged (PR #3)** |
-| **[tranguyeenn / ShelfTxt](https://github.com/tranguyeenn/shelftxt)** | Built Flutter Mobile Foundation with REST API integration & MVVM state pattern | 🟢 **Active (PR #31)** |
-| **[johnny603 / Lux](https://github.com/johnny603/lux)** | Engineered Flutter Mobile Catalog Client with dynamic API discovery & 28/28 test suite | 🟢 **Active Bounty (PR #48)** |
-| **[aau-giraf / Visual-Tangible-Artefacts](https://github.com/aau-giraf/visual-tangible-artefacts)** | Resolved 81 analyzer issues and enforced 0-warning CI quality gates | 🟢 **Active (PR #309)** |
-| **[DhanushNehru / Ciraft](https://github.com/DhanushNehru/ciraft)** | Implemented Flutter stack auto-detection and automated CI pipeline generation | 🟢 **Active (PR #40)** |
-| **[ShuhakiOrg / skillup-tracker](https://github.com/ShuhakiOrg/skillup-tracker)** | Open-source skill tracking & development architecture documentation | 🟣 **Merged (PR #6)** |
-
-### ⚡ 3. Cloud, Backend, Systems & Bounties
-
-| Organization / Repository | Focus & Contribution Details | Status |
-| :--- | :--- | :---: |
-| **[pluralsh / Console](https://github.com/pluralsh/console)** | Built Argo Events compatibility scraper, matrix tables, and test validation suite | 🟢 **Active (PR #4246)** |
-| **[Senthemodder / claude-bounties](https://github.com/Senthemodder/claude-bounties)** | 9 Feature & Bugfix Bounties (Physics collision, voxel display, CLI deployment & Bedrock schemas) | 🟢 **Active (9 PRs)** |
-| **[AmeyOathout4 / minio](https://github.com/AmeyOathout4/minio)** | Implemented adaptive S3 multipart uploader with dynamic part sizing and timeouts | 🟢 **Active (PR #5)** |
-| **[HarrieAlexandrowicz5 / gorm](https://github.com/HarrieAlexandrowicz5/gorm)** | Fixed reflection nil dereference panic during complex join queries in GORM | 🟢 **Active (PR #10)** |
-| **[ravshanitoviah / go-github](https://github.com/ravshanitoviah/go-github)** | Resolved memory leak in BufferPoolManager for high-throughput GitHub API calls | 🟢 **Active (PR #7)** |
-| **[BernhardPierno25 / kafka-go](https://github.com/BernhardPierno25/kafka-go)** | Prevented WriteMessages from context timeout errors after successful broker delivery | 🟢 **Active (PR #8)** |
-| **[LiliannaBruflat83 / chi](https://github.com/LiliannaBruflat83/chi)** | Fixed middleware execution chain to immediately halt on error response | 🟢 **Active (PR #16)** |
-| **[Scottcjn / RustChain Bounties](https://github.com/Scottcjn/rustchain-bounties)** | Payout pipeline audit & defect resolution | 🟢 **40 RTC Confirmed** |
+| **[pluralsh / Console](https://github.com/pluralsh/console)** | Built Argo Events compatibility scraper, matrix tables, and test validation suite | 🟢 **[PR #4246](https://github.com/pluralsh/console/pull/4246)** |
+| **[typeorm / typeorm](https://github.com/typeorm/typeorm)** | Prevented column drop-recreation during multi-column renames & fixed nested array WHERE normalization | 🟢 **[PR #12852](https://github.com/typeorm/typeorm/pull/12852)** & **[PR #12851](https://github.com/typeorm/typeorm/pull/12851)** |
+| **[autokey / autokey](https://github.com/autokey/autokey)** | Implemented Wayland session detection with seamless fallback to `AtSpiInterface` | 🟢 **[PR #1192](https://github.com/autokey/autokey/pull/1192)** |
+| **[AmeyOathout4 / MinIO](https://github.com/AmeyOathout4/minio)** | Implemented adaptive S3 multipart uploader with dynamic part sizing and timeouts | 🟢 **[PR #5](https://github.com/AmeyOathout4/minio/pull/5)** |
+| **[HarrieAlexandrowicz5 / GORM](https://github.com/HarrieAlexandrowicz5/gorm)** | Fixed reflection nil dereference panic during complex join queries in Go ORM | 🟢 **[PR #10](https://github.com/HarrieAlexandrowicz5/gorm/pull/10)** |
+| **[ravshanitoviah / go-github](https://github.com/ravshanitoviah/go-github)** | Resolved memory leak in BufferPoolManager for high-throughput GitHub API calls | 🟢 **[PR #7](https://github.com/ravshanitoviah/go-github/pull/7)** |
+| **[BernhardPierno25 / kafka-go](https://github.com/BernhardPierno25/kafka-go)** | Prevented WriteMessages from timing out after broker delivery verification | 🟢 **[PR #8](https://github.com/BernhardPierno25/kafka-go/pull/8)** |
+| **[Senthemodder / claude-bounties](https://github.com/Senthemodder/claude-bounties)** | 9 Feature & Bugfix Bounties (Kinematic physics collisions, voxel rendering & Bedrock schema validation) | 🟢 **[9 Bounty PRs](https://github.com/Senthemodder/claude-bounties/pulls?q=is%3Apr+author%3AAKASH80047)** |
+| **[Scottcjn / RustChain Bounties](https://github.com/Scottcjn/rustchain-bounties)** | Full payout pipeline audit, concurrency defect identification and resolution | 🟢 **[40 RTC Bounty Confirmed](https://github.com/Scottcjn/rustchain-bounties/issues/16471)** |
 
 </div>
 
 ---
 
-## 🏆 Featured Mobile & AI Flagship Applications
+## 🏆 Featured Production Projects & Case Studies
 
 <div align="center">
 
@@ -125,33 +124,33 @@
   <tr>
     <td width="50%" valign="top">
       <div align="center">
-        <h3>🎵 Feel Every Beat — Audio Streaming Suite</h3>
-        <p><b>Enterprise-Grade Music & Podcast Streaming App</b></p>
+        <h3>🎵 Feel Every Beat</h3>
+        <p><b>High-Performance Audio & Podcast Streaming Engine</b></p>
       </div>
       <ul>
-        <li>⚡ Background audio playback & lock-screen media notification controls.</li>
-        <li>⚡ <b>JustAudio + AudioService + Riverpod</b> state orchestration.</li>
-        <li>⚡ Offline audio caching, real-time waveform visualizers & playlist sync.</li>
+        <li>⚡ <b>Audio Architecture</b>: Background playback, lock-screen media notification controls via <code>JustAudio + AudioService</code>.</li>
+        <li>⚡ <b>State Management</b>: Reactive <code>Riverpod 2.x</code> state machines with local Hive audio caching.</li>
+        <li>⚡ <b>Real-time Visuals</b>: Dynamic 60 FPS waveform renderers and synchronized lyric streams.</li>
       </ul>
       <p align="center">
         <a href="https://github.com/AKASH80047/Feel-Every-Beat-">
-          <img src="https://img.shields.io/badge/Explore_Source_Code-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+          <img src="https://img.shields.io/badge/Source_Repository-10b981?style=flat-square&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
     <td width="50%" valign="top">
       <div align="center">
-        <h3>🛍️ AppleCart — Modern E-Commerce Platform</h3>
-        <p><b>Full-Featured Scalable Mobile Shopping Experience</b></p>
+        <h3>🛍️ AppleCart</h3>
+        <p><b>Enterprise-Grade Cross-Platform E-Commerce Suite</b></p>
       </div>
       <ul>
-        <li>⚡ Dynamic product catalog, multi-filter faceted search & persistent cart.</li>
-        <li>⚡ Secure checkout flow, coupon system & real-time order tracking.</li>
-        <li>⚡ <b>BLoC Architecture</b> + Dio REST interceptors with automated token refresh.</li>
+        <li>⚡ <b>State & Network</b>: Event-driven <code>BLoC Architecture</code> with custom Dio HTTP interceptors & token auto-refresh.</li>
+        <li>⚡ <b>Commerce Flow</b>: Faceted multi-attribute search, persistent cart, coupon validation & checkout gateway.</li>
+        <li>⚡ <b>Design System</b>: Modular design tokens with fluid transitions and full dark/light theme support.</li>
       </ul>
       <p align="center">
         <a href="https://github.com/AKASH80047/AppleCart">
-          <img src="https://img.shields.io/badge/Explore_Store_App-FF6B6B?style=for-the-badge&logo=shopify&logoColor=white" />
+          <img src="https://img.shields.io/badge/Source_Repository-3b82f6?style=flat-square&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
@@ -161,69 +160,33 @@
   <tr>
     <td width="50%" valign="top">
       <div align="center">
-        <h3>🤖 Peblo AI — AI Story Buddy & Quiz Engine</h3>
-        <p><b>Generative AI Powered Interactive Mobile Experience</b></p>
+        <h3>🤖 Peblo AI</h3>
+        <p><b>Generative AI Interactive Story & Quiz Engine</b></p>
       </div>
       <ul>
-        <li>⚡ AI interactive story generation & dynamic comprehension quizzes.</li>
-        <li>⚡ Child-friendly conversational AI interface with speech synthesis.</li>
-        <li>⚡ Built with Flutter, REST AI integrations & reactive state management.</li>
+        <li>⚡ <b>LLM Integration</b>: Streaming story generation with dynamic branching narrative decisions.</li>
+        <li>⚡ <b>Interactive Evaluation</b>: Context-aware comprehension quiz generation via OpenAI / Gemini APIs.</li>
+        <li>⚡ <b>Voice & Speech</b>: Native speech synthesis integration with low-latency client audio playback.</li>
       </ul>
       <p align="center">
         <a href="https://github.com/AKASH80047/Peblo-AI-Story-Buddy">
-          <img src="https://img.shields.io/badge/Explore_AI_App-8E75C2?style=for-the-badge&logo=openai&logoColor=white" />
+          <img src="https://img.shields.io/badge/Source_Repository-8b5cf6?style=flat-square&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
     <td width="50%" valign="top">
       <div align="center">
-        <h3>💰 Expense Tracker — Personal Finance Analytics</h3>
-        <p><b>Budgeting & Real-Time Financial Intelligence Suite</b></p>
+        <h3>💰 Expense Tracker</h3>
+        <p><b>Personal Financial Analytics & Ledger Suite</b></p>
       </div>
       <ul>
-        <li>⚡ Daily transaction ledgers with real-time budget threshold warnings.</li>
-        <li>⚡ Interactive visual breakdown charts & monthly turnover analytics.</li>
-        <li>⚡ Offline-first data synchronization with Firebase Cloud Firestore.</li>
+        <li>⚡ <b>Offline-First Architecture</b>: Instant local ledger updates synchronized with Firebase Firestore.</li>
+        <li>⚡ <b>Visual Analytics</b>: Multi-dimensional spending breakdown charts & automated budget alerts.</li>
+        <li>⚡ <b>Export Pipeline</b>: Custom PDF & CSV summary report generation with encrypted data export.</li>
       </ul>
       <p align="center">
         <a href="https://github.com/AKASH80047/Expense-Tracker">
-          <img src="https://img.shields.io/badge/Explore_Finance_App-4CAF50?style=for-the-badge&logo=firebase&logoColor=white" />
-        </a>
-      </p>
-    </td>
-  </tr>
-
-  <!-- ROW 3 -->
-  <tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>💬 iChat — Real-Time Messaging Platform</h3>
-        <p><b>Instant 1-to-1 & Group Chat Mobile Experience</b></p>
-      </div>
-      <ul>
-        <li>⚡ Real-time messaging, online/offline presence & typing indicators.</li>
-        <li>⚡ Media file sharing, push notifications & message history sync.</li>
-        <li>⚡ Secure authentication & encrypted cloud database storage.</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/AKASH80047/ichat">
-          <img src="https://img.shields.io/badge/Explore_Chat_App-0088CC?style=for-the-badge&logo=telegram&logoColor=white" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>📝 Online Examination & Evaluation Portal</h3>
-        <p><b>Multi-Role Timed Testing Engine & Assessment Suite</b></p>
-      </div>
-      <ul>
-        <li>⚡ Automated countdown timer with anti-cheating window blur detector.</li>
-        <li>⚡ Instant score calculation and detailed performance breakdown.</li>
-        <li>⚡ Multi-tier role permissions (Admin, Instructor, Student).</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/AKASH80047/Online-Examination-System">
-          <img src="https://img.shields.io/badge/Explore_Exam_Portal-9C27B0?style=for-the-badge&logo=gitbook&logoColor=white" />
+          <img src="https://img.shields.io/badge/Source_Repository-f59e0b?style=flat-square&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
@@ -234,98 +197,57 @@
 
 ---
 
-## 🛠️ Complete Technical Stack & Engineering Toolkit
+## 🛠️ Technical Stack & Architectural Capabilities
 
 <div align="center">
 
-### 📱 Mobile Frameworks & Core Languages
-<p>
-  <img src="https://img.shields.io/badge/Flutter_3.x-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart_3.x-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/iOS_Native-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_Native-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
+```
+====================================================================================================
+  Core Mobile         │ Flutter 3.x • Dart 3.x • iOS Native (Swift) • Android (Kotlin/Java) • React Native
+  Architecture        │ Enterprise Clean Architecture • BLoC • Riverpod 2.x • Provider • MVVM • DDD
+  AI & LLM Systems    │ OpenAI GPT-4o • Anthropic Claude 3.5 • Google Gemini • Vector RAG • LangChain
+  Data & Networking   │ Dio Interceptors • REST • GraphQL • WebSockets • Firebase Firestore • Supabase
+  Databases (Local)   │ SQLite (sqflite) • Hive NoSQL • Isar • SharedPreferences • SecureStorage
+  Backend & Languages │ Go (Golang) • TypeScript • JavaScript (Node.js) • Python • C++ • SQL
+  DevOps & Quality    │ GitHub Actions CI/CD • Fastlane • Docker • Postman • Figma • Unit/Widget Testing
+====================================================================================================
+```
 
-### ⚙️ State Management & Architecture
-<p>
-  <img src="https://img.shields.io/badge/Riverpod_2.x-2C3E50?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter_BLoC-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Provider-00C4B4?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Clean_Architecture-4A154B?style=for-the-badge&logo=blueprint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Repository_Pattern-2980B9?style=for-the-badge&logo=codewars&logoColor=white" />
-  <img src="https://img.shields.io/badge/MVVM-16A085?style=for-the-badge&logo=blueprint&logoColor=white" />
-</p>
+### 🧰 Technology Badges
 
-### 🤖 Generative AI, LLMs & Vector Search
-<p>
-  <img src="https://img.shields.io/badge/OpenAI_GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anthropic_Claude_3.5-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Gemini_Pro-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pinecone_Vector_DB-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
-</p>
-
-### ☁️ Cloud, APIs, Storage & Databases
-<p>
-  <img src="https://img.shields.io/badge/Firebase_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dio_Networking-02569B?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hive_NoSQL-F39C12?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
-
-### 🛠️ Developer Tools, Testing & DevOps
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-181717?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="Actions" />
 </p>
 
 </div>
 
 ---
 
-## 💼 Development Services & Solutions
-
-<div align="center">
-
-| 📦 Service | 🎯 Ideal For | 🛠️ Deliverables | ⏱️ Timeline |
-| :--- | :--- | :--- | :---: |
-| **🚀 MVP Mobile App Launch** | Startups & Founders | Full iOS + Android app, User Auth, Cloud Database, Store Submission | **2 - 3 Weeks** |
-| **🤖 Generative AI Mobile App** | AI Startups & Enterprises | Custom LLM Chatbot, Streaming Responses, Vector RAG Search | **1 - 3 Weeks** |
-| **🎨 Figma to Flutter UI** | Designers & Agencies | 100% pixel-perfect Flutter UI, custom animations, dark/light themes | **3 - 7 Days** |
-| **⚡ Backend & API Sync** | Existing Apps | REST / GraphQL / Dio integration, Supabase/Firebase, Stripe Payments | **3 - 5 Days** |
-| **🔧 Performance & Audit** | Slow / Crashing Apps | Memory leak fixes, 60 FPS jank reduction, state refactor, lint cleanup | **24 - 48 Hours** |
-
-</div>
-
----
-
-## 🤝 Client Collaboration Guarantee
+## 🤝 Engineering Standards & Client Protections
 
 ```
-1️⃣ Free Scoping & Consultation   ➔ Clear feature breakdown, architecture review & timeline.
-2️⃣ Interactive UI & Architecture ➔ Figma translation & Clean Architecture blueprint.
-3️⃣ Agile Sprints & Test Builds   ➔ Regular testable APK & iOS TestFlight releases.
-4️⃣ Rigorous QA & Audit          ➔ 0-crash guarantee, security audit & battery profiling.
-5️⃣ Store Publishing Support      ➔ Full release engineering for App Store & Google Play.
-6️⃣ Post-Launch Support           ➔ 30 days of continuous warranty & bug maintenance.
+1️⃣ Requirements & Architecture Blueprint  ➔ Clear system design, API contracts & milestone roadmap.
+2️⃣ High-Fidelity UI & Prototyping        ➔ 100% pixel-perfect design translation with 60 FPS fluidity.
+3️⃣ Agile Sprints with Testable Builds     ➔ Continuous delivery of testable iOS TestFlight & Android APKs.
+4️⃣ Automated QA & Profiling               ➔ Static analysis, zero-warning lints, memory & battery audits.
+5️⃣ Production Deployment & App Stores     ➔ End-to-end release engineering for App Store & Google Play.
+6️⃣ Post-Launch Support & Warranty         ➔ Dedicated 30-day post-launch maintenance & bug resolution.
 ```
 
-> **🛡️ Zero-Risk Client Protections:**
-> - **100% Intellectual Property (IP) Transfer**: Full code ownership & rights belong to you.
-> - **Transparent Updates**: Daily video demos and progress logs via Fiverr, Upwork, Slack, or Email.
-> - **Milestone-Based Escrow**: Funds released only when you are 100% satisfied.
+> **🛡️ Professional Guarantees:**
+> - **100% Intellectual Property (IP) Ownership**: Complete source code and repository rights transferred to the client.
+> - **Transparent Communication**: Daily async progress logs and video demonstrations via Slack, Loom, Upwork, or Email.
+> - **Milestone-Driven Security**: Clear deliverables tied to verifiable milestone acceptance criteria.
 
 ---
 
@@ -335,15 +257,15 @@
   <table border="0">
     <tr>
       <td align="center">
-        <img height="185em" src="https://github-readme-stats.vercel.app/api?username=AKASH80047&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=c9d1d9" alt="Akash's GitHub Stats" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AKASH80047&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B0F19&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="Akash's GitHub Stats" />
       </td>
       <td align="center">
-        <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKASH80047&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9" alt="Top Languages" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKASH80047&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AKASH80047&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AKASH80047&theme=tokyonight&hide_border=true&background=0B0F19&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
@@ -351,34 +273,34 @@
 
 ---
 
-## 🚀 Let's Build Something Exceptional Together!
+## 🚀 Let's Connect & Build
 
-Whether you need a new MVP built from scratch, an enterprise mobile platform, or an existing application optimized for performance:
+Whether you are seeking a **Senior Mobile Engineer**, need an **architectural consultation**, or want to build a **high-scale mobile / AI application**:
 
 <div align="center">
 
 <br/>
 
-[![Message on Fiverr](https://img.shields.io/badge/🎯_Message_on_Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/akashpandey318)
+[![Hire on Upwork](https://img.shields.io/badge/Hire_on_Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01e0a297e6e580e0c0)
 &nbsp;
-[![Hire on Upwork](https://img.shields.io/badge/💼_Hire_on_Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01e0a297e6e580e0c0)
+[![Message on Fiverr](https://img.shields.io/badge/Message_on_Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/akashpandey318)
 &nbsp;
-[![Chat on WhatsApp](https://img.shields.io/badge/💬_Chat_on_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918004719992)
+[![Chat on WhatsApp](https://img.shields.io/badge/WhatsApp_Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918004719992)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://akash-pandey-portfolio.web.app/)
+[![Live Portfolio](https://img.shields.io/badge/🌐_Visit_Live_Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://akash-pandey-portfolio.web.app/)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-pandey-53b7b4272)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-pandey-53b7b4272)
 &nbsp;
-[![Send Email](https://img.shields.io/badge/Direct_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akp991892@gmail.com?subject=Mobile%20App%20Inquiry%20from%20GitHub)
+[![Direct Email](https://img.shields.io/badge/Direct_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akp991892@gmail.com?subject=Engineering%20Opportunity%20-%20Akash%20Pandey)
 
 <br/>
 
 ```
-⭐⭐⭐⭐⭐ "Dedicated to engineering mobile and AI experiences that delight users and scale businesses."
+⭐⭐⭐⭐⭐ "Dedicated to engineering robust mobile architectures and scalable AI products."
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1e3a8a,100:2563eb&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,30:0f172a,70:1e293b,100:2563eb&height=120&section=footer" width="100%" alt="Footer" />
 
 </div>
