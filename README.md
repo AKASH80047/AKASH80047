@@ -241,15 +241,15 @@ I am a **Senior Mobile Engineer & Systems Architect** specializing in production
   <table border="0">
     <tr>
       <td align="center">
-        <img height="175em" src="https://github-readme-stats.vercel.app/api?username=AKASH80047&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B0F19&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="Akash's GitHub Stats" />
+        <img height="175em" src="https://github-readme-stats-fast.vercel.app/api?username=AKASH80047&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B0F19&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="Akash's GitHub Stats" />
       </td>
       <td align="center">
-        <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKASH80047&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" />
+        <img height="175em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AKASH80047&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AKASH80047&theme=tokyonight&hide_border=true&background=0B0F19&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=AKASH80047&theme=tokyonight&hide_border=true&background=0B0F19&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
