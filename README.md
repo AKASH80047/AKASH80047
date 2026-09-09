@@ -220,6 +220,25 @@
 
 ---
 
+## 🌍 High-Impact Open Source & Client Contributions
+
+<div align="center">
+
+| Project / Organization | Contribution Details | Impact & Status |
+| :--- | :--- | :--- |
+| **[Kaap10 / Build-With-AI](https://github.com/Kaap10/build-with-ai)** | Engineered 16-Step Flutter & Dart Clean Architecture Workflow Template | 🟣 **[PR #30 Merged](https://github.com/Kaap10/build-with-ai/pull/30)** |
+| **[RamG222 / Alphabet-News](https://github.com/RamG222/Alphabet-News)** | Modernized Flutter codebase, resolved deprecated APIs & enforced strict linting | 🟣 **[PR #3 Merged](https://github.com/RamG222/Alphabet-News/pull/3)** |
+| **[johnny603 / Lux](https://github.com/johnny603/lux)** | Built Flutter Mobile Catalog Client with dynamic API discovery & 28/28 unit/widget tests | 🟢 **[PR #48 Active (Bounty)](https://github.com/johnny603/lux/pull/48)** |
+| **[tranguyeenn / ShelfTxt](https://github.com/tranguyeenn/shelftxt)** | Architected Flutter Mobile Foundation (iOS/Android) with REST API integration & MVVM pattern | 🟢 **[PR #31 Active](https://github.com/tranguyeenn/shelftxt/pull/31)** |
+| **[pluralsh / Console](https://github.com/pluralsh/console)** | Built Argo Events compatibility scraper, matrix tables, and test validation suite | 🟢 **[PR #4246 Active](https://github.com/pluralsh/console/pull/4246)** |
+| **[Scottcjn / RustChain Bounties](https://github.com/Scottcjn/rustchain-bounties)** | Payout pipeline audit & defect resolution (4/4 confirmed findings) | 🟢 **[40 RTC Bounty Confirmed](https://github.com/Scottcjn/rustchain-bounties/issues/16471)** |
+| **[aau-giraf / Visual-Tangible-Artefacts](https://github.com/aau-giraf/visual-tangible-artefacts)** | Resolved 81 analyzer issues and enforced zero-warning CI pipelines | 🟢 **[PR #309 Active](https://github.com/aau-giraf/visual-tangible-artefacts/pull/309)** |
+| **[DhanushNehru / Ciraft](https://github.com/DhanushNehru/ciraft)** | Implemented Flutter stack detection and automated CI workflow generation | 🟢 **[PR #40 Active](https://github.com/DhanushNehru/ciraft/pull/40)** |
+
+</div>
+
+---
+
 ## 🛠️ Complete Technical Stack & Toolkit
 
 <div align="center">
