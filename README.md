@@ -1,49 +1,51 @@
 <div align="center">
 
-  <!-- HERO BANNER -->
+  <!-- NATIVE HIGH-RES VECTOR HEADER -->
   <a href="https://akash-pandey-portfolio.web.app/" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,30:0f172a,70:1e293b,100:2563eb&height=240&section=header&text=Akash%20Pandey&fontSize=48&fontColor=f8fafc&animation=fadeIn&fontAlignY=36&desc=Senior%20Mobile%20Engineer%20%E2%80%A2%20Flutter%20%26%20Systems%20Architect%20%E2%80%A2%20Open%20Source%20Contributor&descFontSize=17&descAlignY=60" width="100%" alt="Akash Pandey Header" />
+    <img src="https://raw.githubusercontent.com/AKASH80047/AKASH80047/main/header.svg" width="100%" alt="Akash Pandey - Senior Mobile Engineer & Systems Architect" />
   </a>
 
-  <!-- DYNAMIC TYPING HOOKS -->
+  <br/><br/>
+
+  <!-- DYNAMIC ANIMATED TYPING -->
   <p align="center">
     <a href="https://readme-typing-svg.herokuapp.com">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=1200&color=38BDF8&center=true&vCenter=true&width=840&lines=Senior+Mobile+App+Engineer+%7C+iOS+%26+Android;Flutter+Architect+%7C+Riverpod%2C+BLoC+%26+Clean+Architecture;Open+Source+Contributor+%7C+36%2B+PRs+in+Tier-1+Global+Repositories;AI+%26+LLM+Integrations+%7C+Streaming+Assistants+%26+Vector+RAG;Available+for+High-Impact+Engineering+Roles+%26+Consulting" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=0284C7&center=true&vCenter=true&width=750&lines=Senior+Mobile+App+Engineer+%E2%80%A2+iOS+%26+Android;Flutter+Architect+%E2%80%A2+Riverpod%2C+BLoC+%26+Clean+Architecture;Open+Source+Contributor+%E2%80%A2+36%2B+PRs+in+Tier-1+Global+Repos;AI+%26+LLM+Integrations+%E2%80%A2+Vector+RAG+%26+Streaming+Chatbots;Open+for+High-Impact+Engineering+Roles+%26+Consulting" alt="Typing SVG" />
     </a>
   </p>
 
-  <!-- REFINED STATUS BADGES -->
+  <!-- REFINED FLAT-SQUARE STATUS BADGES -->
   <p align="center">
-    <a href="https://github.com/AKASH80047"><img src="https://img.shields.io/badge/Status-Open_for_Consulting_%26_Roles-0284c7?style=flat-square&logo=github&logoColor=white" alt="Status" /></a>
-    <a href="https://github.com/AKASH80047"><img src="https://img.shields.io/badge/Contributions-269%2B_Lifetime-2563eb?style=flat-square&logo=git&logoColor=white" alt="Contributions" /></a>
-    <a href="https://github.com/AKASH80047"><img src="https://img.shields.io/badge/Architecture-Clean_%26_Offline--First-0f766e?style=flat-square&logo=blueprint&logoColor=white" alt="Architecture" /></a>
-    <a href="https://github.com/AKASH80047"><img src="https://img.shields.io/badge/Response_Time-%3C_1_Hour-7c3aed?style=flat-square&logo=clock&logoColor=white" alt="Response" /></a>
+    <img src="https://img.shields.io/badge/Status-Open_for_Projects-0284c7?style=flat-square&logo=github&logoColor=white" alt="Status" />
+    <img src="https://img.shields.io/badge/Contributions-269%2B_Lifetime-2563eb?style=flat-square&logo=git&logoColor=white" alt="Contributions" />
+    <img src="https://img.shields.io/badge/Architecture-Clean_%26_Offline--First-0f766e?style=flat-square&logo=blueprint&logoColor=white" alt="Architecture" />
+    <img src="https://img.shields.io/badge/Response_Time-%3C_1_Hour-7c3aed?style=flat-square&logo=clock&logoColor=white" alt="Response" />
   </p>
 
   <!-- CLEAN CONTACT MATRIX -->
   <p align="center">
     <a href="https://akash-pandey-portfolio.web.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-akash--pandey--portfolio-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white" height="28" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Portfolio-akash--pandey--portfolio-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white" height="26" alt="Portfolio" />
     </a>
     &nbsp;
     <a href="https://www.linkedin.com/in/akash-pandey-53b7b4272" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Akash_Pandey-0077b5?style=flat-square&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" />
-    </a>
-    &nbsp;
-    <a href="mailto:akp991892@gmail.com">
-      <img src="https://img.shields.io/badge/Email-akp991892%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" height="28" alt="Email" />
+      <img src="https://img.shields.io/badge/LinkedIn-Akash_Pandey-0077b5?style=flat-square&logo=linkedin&logoColor=white" height="26" alt="LinkedIn" />
     </a>
     &nbsp;
     <a href="https://wa.me/918004719992" target="_blank">
-      <img src="https://img.shields.io/badge/WhatsApp-%2B91_8004719992-25d366?style=flat-square&logo=whatsapp&logoColor=white" height="28" alt="WhatsApp" />
+      <img src="https://img.shields.io/badge/WhatsApp-%2B91_8004719992-25d366?style=flat-square&logo=whatsapp&logoColor=white" height="26" alt="WhatsApp" />
     </a>
     &nbsp;
     <a href="https://www.upwork.com/freelancers/~01e0a297e6e580e0c0" target="_blank">
-      <img src="https://img.shields.io/badge/Upwork-Top_Rated_Profile-14a800?style=flat-square&logo=upwork&logoColor=white" height="28" alt="Upwork" />
+      <img src="https://img.shields.io/badge/Upwork-Top_Rated_Profile-14a800?style=flat-square&logo=upwork&logoColor=white" height="26" alt="Upwork" />
     </a>
     &nbsp;
     <a href="https://www.fiverr.com/akashpandey318" target="_blank">
-      <img src="https://img.shields.io/badge/Fiverr-Pro_Developer-1dbf73?style=flat-square&logo=fiverr&logoColor=white" height="28" alt="Fiverr" />
+      <img src="https://img.shields.io/badge/Fiverr-Pro_Developer-1dbf73?style=flat-square&logo=fiverr&logoColor=white" height="26" alt="Fiverr" />
+    </a>
+    &nbsp;
+    <a href="mailto:akp991892@gmail.com">
+      <img src="https://img.shields.io/badge/Email-akp991892%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" height="26" alt="Email" />
     </a>
   </p>
 
@@ -51,28 +53,28 @@
 
 ---
 
-## 👨‍💻 Executive Summary
+## 👨‍💻 About Me & Architectural Philosophy
 
-I am a **Senior Mobile Engineer & Systems Architect** specializing in building high-performance, mission-critical mobile applications on **iOS & Android** using **Flutter / Dart**, alongside native platform bindings and backend microservices. 
+I am a **Senior Mobile Engineer & Systems Architect** specializing in production-grade mobile platforms for **iOS & Android** with **Flutter / Dart**, native bindings, and high-performance backend systems.
 
-- 🚀 **Performance Obsessed**: 60 FPS buttery fluid animations, aggressive memory optimization, zero-leak resource lifecycles.
-- 🏗️ **Architectural Rigor**: Enterprise Clean Architecture, Domain-Driven Design (DDD), immutable reactive states (Riverpod, BLoC), and offline-first synchronization.
+- 🚀 **Performance & Fluidity**: 60 FPS jank-free rendering, zero-leak memory management, and aggressive battery/network profiling.
+- 🏗️ **Architectural Rigor**: Enterprise Clean Architecture, Domain-Driven Design (DDD), immutable reactive state patterns (`Riverpod 2.x`, `BLoC`), and offline-first cache strategies.
 - 🌐 **Deep Open-Source Track Record**: **36+ authored Pull Requests** and contributions across high-impact global projects including `microg/GmsCore`, `organicmaps`, `software-mansion/react-native-gesture-handler`, `typeorm`, and `super_editor`.
-- 🤖 **Modern AI Integration**: Real-time streaming LLM clients (OpenAI GPT-4o, Claude 3.5, Gemini Pro), client-side embeddings, and Vector RAG search.
+- 🤖 **Generative AI Integration**: End-to-end LLM integration (OpenAI GPT-4o, Claude 3.5, Gemini Pro) with streaming response pipelines and Vector RAG search.
 
 ---
 
-## 📈 Engineering Analytics & Key Performance Indicators
+## 📊 Contribution & Engineering Metrics Overview
 
 <div align="center">
 
-| Core Metric | Score / Level | Context & Impact |
+| Metric | Score / Status | Technical Scope |
 | :--- | :---: | :--- |
-| **⚡ Lifetime GitHub Contributions** | **269+** | Consistent open-source & production code across 2023–2026 |
-| **🔥 2026 Year-to-Date Commits & PRs** | **225+** | High-velocity feature delivery and upstream bugfixes |
-| **🛠️ Global Pull Requests Authored** | **36+** | Multi-ecosystem contributions: Android Core, Flutter, Go, TypeScript |
-| **📦 Codebases Engineered** | **61** | 59 public open-source repos & enterprise clients |
-| **🎯 On-Time Delivery & Quality** | **100%** | Zero-warning CI standards, strict linting & automated testing |
+| **⚡ Lifetime Contributions** | **269+** | Verified contributions across 2023–2026 |
+| **🔥 2026 Year-to-Date Activity** | **225+** | High-velocity feature delivery and upstream bugfixes |
+| **🛠️ Global Pull Requests Authored** | **36+** | Multi-ecosystem: Android Core, Flutter, Go, TypeScript |
+| **📦 Repositories Maintained** | **61** | 59 public open-source repos & enterprise clients |
+| **🎯 Code Quality Gate** | **100%** | Zero-warning CI standards, strict linting & automated testing |
 
 </div>
 
@@ -86,7 +88,7 @@ I am a **Senior Mobile Engineer & Systems Architect** specializing in building h
 
 | Repository / Organization | Scope & Architectural Contribution | Pull Request & Status |
 | :--- | :--- | :---: |
-| **[microg / GmsCore](https://github.com/microg/GmsCore)** | Implemented SMS code autofill and browser callbacks for RCS carrier verification; optimized WearableService transaction handler | 🟢 **[PR #3791](https://github.com/microg/GmsCore/pull/3791)** & **[PR #3790](https://github.com/microg/GmsCore/pull/3790)** |
+| **[microg / GmsCore](https://github.com/microg/GmsCore)** | Built SMS autofill & browser callbacks for RCS carrier verification ([PR #3791](https://github.com/microg/GmsCore/pull/3791)) + WearableService transaction handler ([PR #3790](https://github.com/microg/GmsCore/pull/3790)) | 🟢 **Active** |
 | **[organicmaps / organicmaps](https://github.com/organicmaps/organicmaps)** | Engineered automated multi-locale App Store screenshot generation pipeline for Android | 🟢 **[PR #13530](https://github.com/organicmaps/organicmaps/pull/13530)** |
 | **[software-mansion / react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler)** | Resolved Yoga layout assertion crash in New Architecture Fabric `RNGestureHandlerDetectorShadowNode` | 🟢 **[PR #4500](https://github.com/software-mansion/react-native-gesture-handler/pull/4500)** |
 | **[Flutter-Bounty-Hunters / super_editor](https://github.com/Flutter-Bounty-Hunters/super_editor)** | Optimized spellcheck update bounds during continuous editing & implemented inline widget builders | 🟣 **[PR #3099](https://github.com/Flutter-Bounty-Hunters/super_editor/pull/3099)** & **[PR #3098](https://github.com/Flutter-Bounty-Hunters/super_editor/pull/3098)** |
@@ -233,34 +235,16 @@ I am a **Senior Mobile Engineer & Systems Architect** specializing in building h
 
 ---
 
-## 🤝 Engineering Standards & Client Protections
-
-```
-1️⃣ Requirements & Architecture Blueprint  ➔ Clear system design, API contracts & milestone roadmap.
-2️⃣ High-Fidelity UI & Prototyping        ➔ 100% pixel-perfect design translation with 60 FPS fluidity.
-3️⃣ Agile Sprints with Testable Builds     ➔ Continuous delivery of testable iOS TestFlight & Android APKs.
-4️⃣ Automated QA & Profiling               ➔ Static analysis, zero-warning lints, memory & battery audits.
-5️⃣ Production Deployment & App Stores     ➔ End-to-end release engineering for App Store & Google Play.
-6️⃣ Post-Launch Support & Warranty         ➔ Dedicated 30-day post-launch maintenance & bug resolution.
-```
-
-> **🛡️ Professional Guarantees:**
-> - **100% Intellectual Property (IP) Ownership**: Complete source code and repository rights transferred to the client.
-> - **Transparent Communication**: Daily async progress logs and video demonstrations via Slack, Loom, Upwork, or Email.
-> - **Milestone-Driven Security**: Clear deliverables tied to verifiable milestone acceptance criteria.
-
----
-
 ## 📊 Live GitHub Activity & Statistics
 
 <div align="center">
   <table border="0">
     <tr>
       <td align="center">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AKASH80047&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B0F19&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="Akash's GitHub Stats" />
+        <img height="175em" src="https://github-readme-stats.vercel.app/api?username=AKASH80047&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B0F19&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="Akash's GitHub Stats" />
       </td>
       <td align="center">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKASH80047&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" />
+        <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKASH80047&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" />
       </td>
     </tr>
     <tr>
@@ -273,9 +257,7 @@ I am a **Senior Mobile Engineer & Systems Architect** specializing in building h
 
 ---
 
-## 🚀 Let's Connect & Build
-
-Whether you are seeking a **Senior Mobile Engineer**, need an **architectural consultation**, or want to build a **high-scale mobile / AI application**:
+## 🚀 Let's Connect & Collaborate
 
 <div align="center">
 
@@ -300,7 +282,5 @@ Whether you are seeking a **Senior Mobile Engineer**, need an **architectural co
 ```
 ⭐⭐⭐⭐⭐ "Dedicated to engineering robust mobile architectures and scalable AI products."
 ```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,30:0f172a,70:1e293b,100:2563eb&height=120&section=footer" width="100%" alt="Footer" />
 
 </div>

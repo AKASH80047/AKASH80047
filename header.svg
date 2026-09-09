@@ -1,0 +1,88 @@
+<svg fill="none" viewBox="0 0 850 250" width="100%" height="250" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090D16" />
+      <stop offset="45%" stop-color="#0F172A" />
+      <stop offset="100%" stop-color="#1E1B4B" />
+    </linearGradient>
+
+    <!-- Text Highlight Gradient -->
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF" />
+      <stop offset="60%" stop-color="#F1F5F9" />
+      <stop offset="100%" stop-color="#38BDF8" />
+    </linearGradient>
+
+    <!-- Accent Border Gradient -->
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.6" />
+      <stop offset="50%" stop-color="#818CF8" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0.1" />
+    </linearGradient>
+
+    <!-- Glow Radial Gradients -->
+    <radialGradient id="glowTop" cx="100%" cy="0%" r="60%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.25" />
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0" />
+    </radialGradient>
+
+    <radialGradient id="glowBottom" cx="0%" cy="100%" r="60%">
+      <stop offset="0%" stop-color="#818CF8" stop-opacity="0.22" />
+      <stop offset="100%" stop-color="#818CF8" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <style>
+    .font-heavy { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 800; }
+    .font-medium { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 500; }
+    .font-mono { font-family: 'SF Mono', Monaco, 'Fira Code', Consolas, monospace; }
+  </style>
+
+  <!-- Card Background -->
+  <rect x="2" y="2" width="846" height="246" rx="16" fill="url(#bgGrad)" stroke="url(#borderGrad)" stroke-width="1.5" />
+  
+  <!-- Glowing Background Orbs -->
+  <rect x="2" y="2" width="846" height="246" rx="16" fill="url(#glowTop)" />
+  <rect x="2" y="2" width="846" height="246" rx="16" fill="url(#glowBottom)" />
+
+  <!-- Top Pill Badge -->
+  <rect x="36" y="26" width="370" height="30" rx="15" fill="#38BDF8" fill-opacity="0.12" stroke="#38BDF8" stroke-opacity="0.35" stroke-width="1" />
+  <circle cx="52" cy="41" r="4.5" fill="#38BDF8" />
+  <text x="65" y="46" fill="#38BDF8" class="font-medium" font-size="12" letter-spacing="1">SENIOR MOBILE &amp; SYSTEMS ARCHITECT</text>
+
+  <!-- Name Heading -->
+  <text x="36" y="105" fill="url(#textGrad)" class="font-heavy" font-size="38" letter-spacing="-0.5">Akash Pandey</text>
+
+  <!-- Subtitle -->
+  <text x="36" y="136" fill="#94A3B8" class="font-medium" font-size="15">High-Performance Flutter 3.x • Android Core • Distributed Go Systems • Generative AI</text>
+
+  <!-- Metric Badges Row -->
+  <!-- Pill 1: Lifetime Contributions -->
+  <g transform="translate(36, 172)">
+    <rect x="0" y="0" width="180" height="42" rx="8" fill="#1E293B" fill-opacity="0.8" stroke="#334155" stroke-width="1" />
+    <text x="14" y="26" fill="#38BDF8" class="font-heavy" font-size="16">269+</text>
+    <text x="64" y="26" fill="#CBD5E1" class="font-medium" font-size="12">Contributions</text>
+  </g>
+
+  <!-- Pill 2: Open Source PRs -->
+  <g transform="translate(228, 172)">
+    <rect x="0" y="0" width="180" height="42" rx="8" fill="#1E293B" fill-opacity="0.8" stroke="#334155" stroke-width="1" />
+    <text x="14" y="26" fill="#38BDF8" class="font-heavy" font-size="16">36+</text>
+    <text x="52" y="26" fill="#CBD5E1" class="font-medium" font-size="12">Authored PRs</text>
+  </g>
+
+  <!-- Pill 3: Repositories -->
+  <g transform="translate(420, 172)">
+    <rect x="0" y="0" width="180" height="42" rx="8" fill="#1E293B" fill-opacity="0.8" stroke="#334155" stroke-width="1" />
+    <text x="14" y="26" fill="#38BDF8" class="font-heavy" font-size="16">61</text>
+    <text x="44" y="26" fill="#CBD5E1" class="font-medium" font-size="12">Repositories</text>
+  </g>
+
+  <!-- Pill 4: Code Quality / FPS -->
+  <g transform="translate(612, 172)">
+    <rect x="0" y="0" width="200" height="42" rx="8" fill="#1E293B" fill-opacity="0.8" stroke="#334155" stroke-width="1" />
+    <text x="14" y="26" fill="#38BDF8" class="font-heavy" font-size="16">60 FPS</text>
+    <text x="74" y="26" fill="#CBD5E1" class="font-medium" font-size="12">Clean Arch</text>
+  </g>
+</svg>
