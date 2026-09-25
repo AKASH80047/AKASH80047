@@ -36,7 +36,7 @@
       <img src="https://img.shields.io/badge/WhatsApp-%2B91_8004719992-25d366?style=flat-square&logo=whatsapp&logoColor=white" height="26" alt="WhatsApp" />
     </a>
     &nbsp;
-    <a href="https://www.upwork.com/freelancers/~01e0a297e6e580e0c0" target="_blank">
+    <a href="https://www.upwork.com/freelancers/~01436b4516f5f10cdf" target="_blank">
       <img src="https://img.shields.io/badge/Upwork-Top_Rated_Profile-14a800?style=flat-square&logo=upwork&logoColor=white" height="26" alt="Upwork" />
     </a>
     &nbsp;
@@ -263,7 +263,7 @@ I am a **Senior Mobile Engineer & Systems Architect** specializing in production
 
 <br/>
 
-[![Hire on Upwork](https://img.shields.io/badge/Hire_on_Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01e0a297e6e580e0c0)
+[![Hire on Upwork](https://img.shields.io/badge/Hire_on_Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01436b4516f5f10cdf)
 &nbsp;
 [![Message on Fiverr](https://img.shields.io/badge/Message_on_Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/akashpandey318)
 &nbsp;
