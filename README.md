@@ -32,8 +32,8 @@
       <img src="https://img.shields.io/badge/LinkedIn-Akash_Pandey-0077b5?style=flat-square&logo=linkedin&logoColor=white" height="26" alt="LinkedIn" />
     </a>
     &nbsp;
-    <a href="https://wa.me/918004719992" target="_blank">
-      <img src="https://img.shields.io/badge/WhatsApp-%2B91_8004719992-25d366?style=flat-square&logo=whatsapp&logoColor=white" height="26" alt="WhatsApp" />
+    <a href="https://wa.me/917428342558" target="_blank">
+      <img src="https://img.shields.io/badge/WhatsApp-%2B91_7428342558-25d366?style=flat-square&logo=whatsapp&logoColor=white" height="26" alt="WhatsApp" />
     </a>
     &nbsp;
     <a href="https://www.upwork.com/freelancers/~01436b4516f5f10cdf" target="_blank">
@@ -267,7 +267,7 @@ I am a **Senior Mobile Engineer & Systems Architect** specializing in production
 &nbsp;
 [![Message on Fiverr](https://img.shields.io/badge/Message_on_Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/akashpandey318)
 &nbsp;
-[![Chat on WhatsApp](https://img.shields.io/badge/WhatsApp_Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918004719992)
+[![Chat on WhatsApp](https://img.shields.io/badge/WhatsApp_Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917428342558)
 
 <br/>
 
