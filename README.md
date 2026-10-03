@@ -17,138 +17,82 @@
 
 ---
 
-## 🚀 Available for Freelance Projects
+## 💼 Work With Me
 
-I help startups, businesses, and individuals build modern mobile and web applications. Whether you need a complete product from scratch or help fixing an existing application, I am available to work.
+Welcome to my Freelance Client Workspace. If you need development work, choose an option below to securely submit your requirements directly to my task board.
 
-**I can help with:**
-- Flutter mobile applications (Android & iOS)
-- UI/UX implementation from Figma to Flutter
-- Bug fixing and performance optimization
-- API and Firebase integration (Auth, Firestore, Cloud Functions)
-- Admin dashboards and full-stack development
-- MVP development for startups
-- Existing project maintenance and feature expansion
+### 🐛 [I Have a Bug](https://github.com/AKASH80047/AKASH80047/issues/new/choose)
+Have a crash or UI glitch in your existing Flutter/Android/iOS project? 
 
-**Have a project or task? Let's work together.**
+### 🚀 [I Need a Feature](https://github.com/AKASH80047/AKASH80047/issues/new/choose)
+Want to add an API, push notifications, or a new screen to your existing app?
 
-[Email Me](mailto:akp991892@gmail.com) • [LinkedIn](https://www.linkedin.com/in/akash106/) • [Upwork](https://www.upwork.com/freelancers/~01436b4516f5f10cdf) • [Fiverr](https://www.fiverr.com/akashpandey318) • [Portfolio](https://akash-pandey-portfolio.web.app/)
+### 📱 [I Need an App](https://github.com/AKASH80047/AKASH80047/issues/new/choose)
+Want to build a complete mobile application or MVP from scratch?
+
+**First time here? Check out the [Start Here Guide](./START_HERE.md) and [Services Directory](./SERVICES.md).**
 
 ---
 
-## 💼 Freelance Services
+## 🔄 The Client Journey
 
-| Service | What I Can Build |
-| :--- | :--- |
-| **Flutter Development** | Cross-platform Android & iOS applications from a single codebase. |
-| **UI Development** | Pixel-perfect, responsive, and animated Flutter interfaces. |
-| **API Integration** | Secure REST API, authentication, and backend integration. |
-| **Firebase** | Auth, Firestore database, Storage, and Push Notifications. |
-| **Bug Fixing** | Debugging, state management fixing, and resolving UI issues. |
-| **App Features** | Adding new modules or screens to your existing applications. |
-| **Admin Panels** | Web/mobile admin dashboards to manage your app data. |
-| **MVP Development** | Building startup Minimum Viable Products quickly and cleanly. |
-
----
-
-## 📩 Have a Task for Me?
-
-You do NOT need to hire me for an entire application. I am available for small tasks, hourly work, or milestone-based projects.
-
-**You can send me:**
-- A small bug that needs fixing
-- A single UI screen to develop
-- An API that needs to be integrated
-- A Firebase feature (like Push Notifications)
-- Modifications to an existing project
-- A complete MVP or long-term development
-
-*"Have a small Flutter task or a complete product idea? Send me the requirements, screenshots, Figma design, GitHub repository or API documentation and I can review the work."*
-
-**[Send Project Requirements → Contact Me](mailto:akp991892@gmail.com)**
+```text
+Discover GitHub
+      ↓
+View Projects & Proof of Work
+      ↓
+Understand Services
+      ↓
+Choose Task Type (Bug/Feature/App)
+      ↓
+Submit Requirements via Issues/Email
+      ↓
+Discuss Scope & Timeline
+      ↓
+Development Begins
+      ↓
+Testing & Revisions
+      ↓
+Final Delivery
+```
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Featured Proof of Work
 
 ### Industry-Level Employee Management System
 **Enterprise workflow and employee tracking mobile application.**
 
-**Problem:** 
-Businesses need a streamlined way to track employee attendance, manage workflows, and handle administrative tasks digitally.
-
-**Solution:** 
-I built a comprehensive employee management mobile application with role-based access, attendance tracking, and clean state management.
-
-**Tech Stack:** 
-Flutter • Dart • Riverpod • Clean Architecture • REST API
-
-**Key Features:**
-- Secure Authentication and Role Management
-- Real-time Dashboard and Workflow Tracking
-- Scalable Clean Architecture (Presentation, Domain, Data layers)
-
-**My Contribution:** 
-Developed the entire mobile frontend architecture, integrated the API, and managed complex application state using Riverpod.
-
-**Project Status:** 
-Completed
+**Problem:** Businesses need a streamlined way to track employee attendance, manage workflows, and handle administrative tasks digitally.
+**Solution:** A comprehensive Flutter application with role-based access, attendance tracking, and clean state management.
+**Tech Stack:** Flutter • Dart • Riverpod • Clean Architecture • REST API
 
 [View Repository](https://github.com/AKASH80047/Industry-Level-Workflow-Employee-Management-System)
+*Related Services: Flutter Development, API Integration, Firebase, Admin Dashboard*
 
 ---
 
 ### Full-Featured E-Commerce App
 **Complete mobile storefront with real-time inventory and checkout.**
 
-**Problem:** 
-Retailers need an easy-to-use mobile platform to sell products, manage inventory, and securely process user sessions.
-
-**Solution:** 
-A robust, cross-platform e-commerce application integrated heavily with Firebase for real-time data sync and user management.
-
-**Tech Stack:** 
-Flutter • Firebase (Auth, Firestore) • Dart
-
-**Key Features:**
-- Product Catalog and Live Inventory Sync
-- Shopping Cart and Secure User Sessions
-- Order History and User Profiles
-
-**My Contribution:** 
-Built the UI screens, connected the app to Firebase Firestore, implemented user authentication, and handled cart state.
-
-**Project Status:** 
-Completed
+**Problem:** Retailers need an easy-to-use mobile platform to sell products, manage inventory, and securely process user sessions.
+**Solution:** A robust, cross-platform e-commerce application integrated with Firebase for real-time data sync and user management.
+**Tech Stack:** Flutter • VelocityX • GetX
 
 [View Repository](https://github.com/AKASH80047/E-comerse-App)
+*Related Services: UI Development, Marketplace Development, Flutter Development*
 
 ---
 
 ### iChat Real-Time Messenger
 **Real-time communication platform supporting secure messaging.**
 
-**Problem:** 
-Users require a fast, reliable, and secure platform for real-time one-to-one and group communication.
-
-**Solution:** 
-Developed a chat application utilizing WebSockets for instant message delivery and secure backend integration.
-
-**Tech Stack:** 
-JavaScript • Node.js • WebSockets • NoSQL
-
-**Key Features:**
-- Real-time instant messaging (One-to-one & Groups)
-- Online/Offline status indicators
-- File sharing and message history
-
-**My Contribution:** 
-Integrated the WebSockets connection, designed the chat interface, and managed real-time data streaming.
-
-**Project Status:** 
-Completed
+**Problem:** Users require a fast, reliable platform for real-time one-to-one and group communication.
+**Solution:** Developed a chat application utilizing WebSockets for instant message delivery and secure backend integration.
+**Tech Stack:** React.js • Node.js • WebSockets • NoSQL
 
 [View Repository](https://github.com/AKASH80047/ichat)
+*Related Services: API Integration, WebSockets, Real-time Features*
 
 ---
 
@@ -157,19 +101,20 @@ Completed
 - **Flutter & Dart Development:** Deep expertise in cross-platform development for Android & iOS.
 - **Firebase Integration:** Real-world experience implementing complex Auth and Firestore solutions.
 - **REST API Integration:** Skilled at consuming web services and handling dynamic data.
-- **Git/GitHub Workflow:** Professional version control habits for team collaboration.
 - **Clean and Maintainable Code:** Strong adherence to modern architecture paradigms like MVVM and Clean Architecture.
-- **Responsive UI Development:** Ensuring flawless design across all screen sizes.
-- **Existing Application Support:** Reliable support for debugging and extending legacy codebases.
+- **Client-Centric Process:** Clear communication, responsive UI development, and reliable support for existing applications.
 
 ---
 
-## 📬 Let's Work Together
+## 🚀 Have a Project or Task?
 
-Have a project, feature request, bug, or idea? Send me the requirements and I'll review them.
+Whether you need:
+**A bug fixed → A feature developed → An API integrated → A Flutter app built → An existing application maintained**
 
-📧 [Email](mailto:akp991892@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/akash106/)  
-💻 [GitHub](https://github.com/AKASH80047)  
-🧑‍💻 [Fiverr](https://www.fiverr.com/akashpandey318)  
-🌐 [Portfolio](https://akash-pandey-portfolio.web.app/)  
+Send the requirements and I’ll review the scope and discuss the next steps!
+
+📧 **Email:** [akp991892@gmail.com](mailto:akp991892@gmail.com)  
+💼 **LinkedIn:** [Akash Pandey](https://www.linkedin.com/in/akash106/)  
+🧑‍💻 **Upwork:** [Hire me on Upwork](https://www.upwork.com/freelancers/~01436b4516f5f10cdf)  
+🧑‍💻 **Fiverr:** [Hire me on Fiverr](https://www.fiverr.com/akashpandey318)  
+🌐 **Portfolio:** [akash-pandey-portfolio.web.app](https://akash-pandey-portfolio.web.app/)  
