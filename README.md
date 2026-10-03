@@ -113,8 +113,20 @@ Whether you need:
 
 Send the requirements and I’ll review the scope and discuss the next steps!
 
-📧 **Email:** [akp991892@gmail.com](mailto:akp991892@gmail.com)  
-💼 **LinkedIn:** [Akash Pandey](https://www.linkedin.com/in/akash106/)  
-🧑‍💻 **Upwork:** [Hire me on Upwork](https://www.upwork.com/freelancers/~01436b4516f5f10cdf)  
-🧑‍💻 **Fiverr:** [Hire me on Fiverr](https://www.fiverr.com/akashpandey318)  
-🌐 **Portfolio:** [akash-pandey-portfolio.web.app](https://akash-pandey-portfolio.web.app/)  
+<p align="left">
+  <a href="mailto:akp991892@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/akash106/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/~01436b4516f5f10cdf">
+    <img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
+  </a>
+  <a href="https://www.fiverr.com/akashpandey318">
+    <img src="https://img.shields.io/badge/Fiverr-00B22D?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
+  </a>
+  <a href="https://akash-pandey-portfolio.web.app/">
+    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
