@@ -43,8 +43,8 @@ Here are a few highlights from my portfolio:
 ### 📫 Connect with me
 
 * **Portfolio:** [akash-pandey-portfolio.web.app](https://akash-pandey-portfolio.web.app/)
-* **LinkedIn:** [Insert your LinkedIn URL here]
-* **Email:** [Insert your professional email here]
+* **LinkedIn:** https://linkedin.com/in/akash106
+* **Email:** akp99192@gmail.com
 
 <!--
 **AKASH80047/AKASH80047** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
