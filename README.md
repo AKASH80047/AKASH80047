@@ -3,7 +3,9 @@
 <p align="center">
   <a href="mailto:akp991892@gmail.com">akp991892@gmail.com</a> &nbsp;&middot;&nbsp;
   <a href="https://www.linkedin.com/in/akash106/">LinkedIn</a> &nbsp;&middot;&nbsp;
-  <a href="https://akash-pandey-portfolio.web.app/">Portfolio</a>
+  <a href="https://akash-pandey-portfolio.web.app/">Portfolio</a> &nbsp;&middot;&nbsp;
+  <a href="https://www.upwork.com/freelancers/~01436b4516f5f10cdf">Upwork</a> &nbsp;&middot;&nbsp;
+  <a href="https://www.fiverr.com/akashpandey318">Fiverr</a>
 </p>
 
 <br/>
