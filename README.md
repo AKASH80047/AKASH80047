@@ -82,6 +82,18 @@ I am a passionate **Mobile App Developer** and **Software Engineer** specializin
 
 ### 🌍 Open Source Journey
 
+### 🤝 Need Help With Your Mobile App?
+
+Are you facing crashes, UI glitches, or performance issues in your mobile application? I am open to freelance opportunities and consultations! Contact me for:
+- 🐛 **Bug Fixing & Troubleshooting:** Fast and reliable fixes for complex issues in Flutter, Android, or iOS apps.
+- 🧪 **QA Testing:** Rigorous manual and automated testing to ensure your app is production-ready and crash-free.
+- 🚀 **Performance Optimization:** Improving app speed, memory management, and overall architecture.
+
+**[Drop me an email](mailto:akp99192@gmail.com)** or connect with me on **[LinkedIn](https://linkedin.com/in/akash106)** to discuss your project!
+
+<br/>
+<br/>
+
 I believe in the power of open source and community collaboration. Here are some of the remarkable global projects I actively contribute to or study:
 - 🖋️ **[super_editor](https://github.com/AKASH80047/super_editor)** - A robust toolkit for building rich text editors in Flutter.
 - 🗺️ **[organicmaps](https://github.com/AKASH80047/organicmaps)** - High-performance offline maps for travelers (C++).
