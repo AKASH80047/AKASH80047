@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/akash106"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:akp99192@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/akash106/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:akp991892@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://akash-pandey-portfolio.web.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
   <a href="https://github.com/AKASH80047?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repos"/></a>
 </p>
@@ -89,7 +89,7 @@ Are you facing crashes, UI glitches, or performance issues in your mobile applic
 - 🧪 **QA Testing:** Rigorous manual and automated testing to ensure your app is production-ready and crash-free.
 - 🚀 **Performance Optimization:** Improving app speed, memory management, and overall architecture.
 
-**[Drop me an email](mailto:akp99192@gmail.com)** or connect with me on **[LinkedIn](https://linkedin.com/in/akash106)** to discuss your project!
+**[Drop me an email](mailto:akp991892@gmail.com)** or connect with me on **[LinkedIn](https://www.linkedin.com/in/akash106/)** to discuss your project!
 
 <br/>
 <br/>
