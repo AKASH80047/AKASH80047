@@ -52,4 +52,4 @@ I'm a Mobile App Developer specializing in **Flutter & Dart**. I love building c
 
 | Badge / Ecosystem | Contribution Details | Reward | Status |
 | :---: | :--- | :---: | :---: |
-| <img src="https://img.shields.io/badge/RustChain-Ecosystem-8A2BE2?style=for-the-badge&logo=rust" alt="RustChain"/> | Contributed to the **Elyan Labs** open-source ecosystem (BoTTube, RustChain) by successfully identifying, reporting, and fixing bugs/UI issues. | **95 RTC** | ✅ Verified |
+| <img src="https://img.shields.io/badge/RustChain-Ecosystem-8A2BE2?style=for-the-badge&logo=rust" alt="RustChain"/> | Contributed to the **[Elyan Labs](https://github.com/Scottcjn/rustchain-bounties)** open-source ecosystem (BoTTube, RustChain) by successfully identifying, reporting, and fixing bugs/UI issues. | **[95 RTC](https://rustchain.org/wallet/balance?miner_id=AKASH80047)** | ✅ Verified |
