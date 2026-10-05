@@ -36,3 +36,9 @@ I'm a Mobile App Developer specializing in **Flutter & Dart**. I love building c
 | 🏢 **[Industry-Level-Workflow](https://github.com/AKASH80047/Industry-Level-Workflow-Employee-Management-System)** | Enterprise Workflow & Employee Management application. | `Flutter`, `Firebase` | <a href="https://akash80047.github.io/Industry-Level-Workflow-Employee-Management-System/"><img src="https://img.shields.io/badge/Live_App-02569B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live App"/></a> |
 
 <br/>
+
+### 🏆 Open Source Achievements
+
+| Badge / Ecosystem | Contribution Details | Reward | Status |
+| :---: | :--- | :---: | :---: |
+| <img src="https://img.shields.io/badge/RustChain-Ecosystem-8A2BE2?style=for-the-badge&logo=rust" alt="RustChain"/> | Contributed to the **Elyan Labs** open-source ecosystem (BoTTube, RustChain) by successfully identifying, reporting, and fixing bugs/UI issues. | **95 RTC** | ✅ Verified |
