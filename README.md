@@ -7,6 +7,11 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AKASH80047&style=for-the-badge&color=02569B&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
+
 I'm a Mobile App Developer specializing in **Flutter & Dart**. I love building clean, scalable, and responsive cross-platform applications with top-notch UI/UX and solid state management (BLoC, GetX, Riverpod).
 
 - 📱 Currently working on **Advanced Flutter Projects (CRM, Expense Trackers, Dashboards)**
