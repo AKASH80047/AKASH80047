@@ -26,13 +26,13 @@ I'm a Mobile App Developer specializing in **Flutter & Dart**. I love building c
 
 ### 🚀 Top Mobile App Projects
 
-| Project Name | Highlights | Description |
-|--------------|------------|-------------|
-| 💼 **[Personal-Support-CRM](https://github.com/AKASH80047/Personal-Support-CRM)** | `Flutter`, `CRM` | Powerful personal support & CRM dashboard built with Flutter. |
-| 💸 **[Expense-Tracker](https://github.com/AKASH80047/Expense-Tracker)** | `Flutter`, `App UI` | Feature-rich personal finance and expense management system. |
-| 🌐 **[Polylingo](https://github.com/AKASH80047/Polylingo-)** | `Flutter`, `Language App` | Polylingo language learning mobile application interface. |
-| 🐄 **[Startup-Dairy-forming](https://github.com/AKASH80047/Startup-Dairy-forming-project-)** | `Flutter`, `Management` | Dairy farming startup project management application. |
-| 🍽️ **[Dine-Easy](https://github.com/AKASH80047/Dine-Easy)** | `Flutter`, `Food App` | Seamless restaurant ordering and food management application UI. |
-| 🏢 **[Industry-Level-Workflow](https://github.com/AKASH80047/Industry-Level-Workflow-Employee-Management-System)** | `Flutter`, `Firebase` | Enterprise Workflow & Employee Management application. |
+| Project | Description | Tech Stack | Live Demo / App |
+| :--- | :--- | :--- | :--- |
+| 💼 **[Personal-Support-CRM](https://github.com/AKASH80047/Personal-Support-CRM)** | Powerful personal support & CRM dashboard built with Flutter. | `Flutter`, `CRM` | <a href="https://akash80047.github.io/Personal-Support-CRM/"><img src="https://img.shields.io/badge/Live_App-02569B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live App"/></a> |
+| 🐄 **[Startup-Dairy-forming](https://github.com/AKASH80047/Startup-Dairy-forming-project-)** | Dairy farming startup project management application. | `Flutter`, `Management` | <a href="https://web-two-gamma-52.vercel.app/#/home"><img src="https://img.shields.io/badge/Live_App-02569B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live App"/></a> |
+| 💸 **[Expense-Tracker](https://github.com/AKASH80047/Expense-Tracker)** | Feature-rich personal finance and expense management system. | `Flutter`, `App UI` | <a href="https://github.com/AKASH80047/Expense-Tracker"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> |
+| 🌐 **[Polylingo](https://github.com/AKASH80047/Polylingo-)** | Polylingo language learning mobile application interface. | `Flutter`, `Language App` | <a href="https://github.com/AKASH80047/Polylingo-"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> |
+| 🍽️ **[Dine-Easy](https://github.com/AKASH80047/Dine-Easy)** | Seamless restaurant ordering and food management application UI. | `Flutter`, `Food App` | <a href="https://github.com/AKASH80047/Dine-Easy"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> |
+| 🏢 **[Industry-Level-Workflow](https://github.com/AKASH80047/Industry-Level-Workflow-Employee-Management-System)** | Enterprise Workflow & Employee Management application. | `Flutter`, `Firebase` | <a href="https://github.com/AKASH80047/Industry-Level-Workflow-Employee-Management-System"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> |
 
 <br/>
