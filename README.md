@@ -1,95 +1,44 @@
-<div align="center">
-
-# 👨‍💻 Hi there, I'm Akash Pandey
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Flutter+%26+Mobile+App+Specialist;Building+High-Performance+Apps;Top-Rated+Global+Freelancer;UI%2FUX%2C+Firebase+%26+REST+APIs)](https://git.io/typing-svg)
-
-**Mobile App Developer | Flutter Expert | Full-Stack Developer**
+<h1 align="center">Hi 👋, I'm Akash Pandey (AKASH80047)</h1>
+<h3 align="center">A Passionate Mobile App & Flutter Developer</h3>
 
 <p align="center">
-  <a href="mailto:akp991892@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/akash106/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.upwork.com/freelancers/~01436b4516f5f10cdf"><img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>
-  <a href="https://www.fiverr.com/akashpandey318"><img src="https://img.shields.io/badge/Fiverr-00B22D?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" /></a>
-  <a href="https://akash-pandey-portfolio.web.app/"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-</p>
-
-</div>
-
----
-
-<div align="center">
-
-## 💼 Work With Me (Freelance Client Workspace)
-
-*Are you a startup founder, agency, or individual needing development work? Choose your path below to directly submit your requirements.*
-
-<p align="center">
-  <a href="https://github.com/AKASH80047/AKASH80047/issues/new/choose"><img src="https://img.shields.io/badge/🐛_I_Have_a_Bug-d73a4a?style=for-the-badge" alt="Bug Fix" /></a>
-  <a href="https://github.com/AKASH80047/AKASH80047/issues/new/choose"><img src="https://img.shields.io/badge/🚀_I_Need_a_Feature-0075ca?style=for-the-badge" alt="New Feature" /></a>
-  <a href="https://github.com/AKASH80047/AKASH80047/issues/new/choose"><img src="https://img.shields.io/badge/📱_I_Need_an_App-008672?style=for-the-badge" alt="New App" /></a>
-</p>
-
-**First time here? Check out my [Services Directory](./SERVICES.md) and [Start Here Guide](./START_HERE.md).**
-
-</div>
-
----
-
-## 🚀 About Me
-
-I am a highly driven Mobile App Developer specializing in building cross-platform applications using **Flutter & Dart**. I focus on delivering scalable, clean, and maintainable code with **Riverpod, GetX, Firebase**, and **REST APIs**.
-
-- 🔭 I’m currently working as a **Top-Rated Global Freelancer**
-- 🤝 I help businesses convert Figma designs into pixel-perfect Flutter apps
-- ⚙️ I architect apps using **Clean Architecture** and **MVVM** paradigms
-- ⚡ In my free time, I explore Generative AI and WebSockets
-
----
-
-## 🛠️ Tech Stack & Skills
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,android,apple,firebase,react,nodejs,js,html,css,figma,github,vscode,postman&perline=7" />
+  <a href="https://github.com/AKASH80047">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=02569B&center=true&vCenter=true&width=600&lines=Flutter+App+Developer;Cross-Platform+Mobile+Apps;Clean+Architecture+(BLoC%2FGetX);UI%2FUX+Animations+Enthusiast" alt="Typing SVG" />
   </a>
-</div>
+</p>
 
----
+I'm a Mobile App Developer specializing in **Flutter & Dart**. I love building clean, scalable, and responsive cross-platform applications with top-notch UI/UX and solid state management (BLoC, GetX, Riverpod).
 
-## 🌟 Featured Proof of Work
+- 📱 Currently working on **Advanced Flutter Projects (E-Commerce, Dashboards)**
+- 💡 Exploring **Clean Architecture & Complex UI Animations** in Flutter
+- 💬 Ask me about **Flutter, Dart, Firebase, API Integrations, State Management**
+- 📫 Connect with me: **[akp991892@gmail.com](mailto:akp991892@gmail.com)** or WhatsApp: **+91 7428342558**
 
-| Project | Description | Role & Tech |
-|---------|-------------|-------------|
-| **[🏢 Employee Management System](https://github.com/AKASH80047/Industry-Level-Workflow-Employee-Management-System)** | Enterprise workflow and employee tracking mobile app. Solves complex administrative bottlenecks. | Flutter, Riverpod, Firebase Auth, Firestore, Clean Architecture |
-| **[🛒 E-Commerce App](https://github.com/AKASH80047/E-comerse-App)** | Complete mobile storefront with product browsing, categories, and shopping workflows. | Flutter, VelocityX, GetX, Custom UI Components |
-| **[💬 iChat Real-Time Messenger](https://github.com/AKASH80047/ichat)** | Fast, real-time web communication platform supporting group chat isolation and presence tracking. | React.js, WebSockets, Socket.io, Node.js |
+### 🛠️ Tech Stack & Tools
 
----
+<p align="left"> 
+  <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" title="Flutter"/> </a> 
+  <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" title="Dart"/> </a> 
+  <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" title="Android"/> </a>
+  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" title="Firebase"/> </a> 
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" title="Git"/> </a> 
+</p>
 
-## 📊 GitHub Analytics
+### 🚀 Top Mobile App Projects
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AKASH80047&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKASH80047&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</div>
+| Project Name | Highlights | Description |
+|--------------|------------|-------------|
+| 🛒 **[E-comerse-App](https://github.com/AKASH80047/E-comerse-App)** | `Flutter`, `GetX`, `UI/Logic` | Fully functional E-Commerce Application demonstrating robust UI design and GetX state management. |
+| 🛍️ **[flutter-Block-E-comerse](https://github.com/AKASH80047/flutter-Block-E-comerse-project)** | `Flutter`, `BLoC Pattern` | Advanced e-commerce application utilizing the BLoC pattern for clean and scalable state management. |
+| 📊 **[Office Dashboard](https://github.com/AKASH80047/Abstract-Media-office-dash-board)** | `Flutter`, `Responsive UI` | Modern, responsive office dashboard application perfectly scaling across devices. |
+| ♻️ **[Eco-bin](https://github.com/AKASH80047/Eco-bin)** | `Flutter`, `Dart` | Eco-friendly waste management and tracking application. |
+| 🍽️ **[Dine-Easy](https://github.com/AKASH80047/Dine-Easy)** | `Flutter`, `App UI` | Seamless restaurant ordering and management application UI. |
+| ✨ **[Flutter-UI-Animation](https://github.com/AKASH80047/Flutter-UI-Animation)** | `Animations`, `Custom UI` | Collection of custom Flutter UI animations and interactive component experiments. |
 
----
+<br/>
 
-## 🔄 The Client Journey
+### 📊 GitHub Stats
 
-```text
-Discover GitHub ➔ View Proof of Work ➔ Understand Services ➔ Submit Requirements ➔ Development Begins ➔ Final Delivery
-```
-
----
-
-<div align="center">
-
-## 📩 Ready to start a project?
-
-Whether you need a **bug fixed, feature developed, API integrated, or full app built**, I am available for freelance work.
-
-**[Contact Me via Email](mailto:akp991892@gmail.com)** | **[Hire Me on Upwork](https://www.upwork.com/freelancers/~01436b4516f5f10cdf)**
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AKASH80047&show_icons=true&theme=transparent&hide_border=true&title_color=02569B&icon_color=02569B&text_color=333" alt="Akash's GitHub Stats" />
+</p>
