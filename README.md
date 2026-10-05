@@ -2,8 +2,14 @@
 <h3 align="center">A Passionate Mobile App & Flutter Developer</h3>
 
 <p align="center">
-  <a href="https://github.com/AKASH80047">
+  <a href="https://akash-pandey-portfolio.web.app">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=02569B&center=true&vCenter=true&width=600&lines=Flutter+App+Developer;Cross-Platform+Mobile+Apps;Clean+Architecture+(BLoC%2FGetX);UI%2FUX+Animations+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://akash-pandey-portfolio.web.app">
+    <img src="https://img.shields.io/badge/Check_Out_My_Live_Portfolio-02569B?style=for-the-badge&logo=firebase&logoColor=white" alt="Live Portfolio" />
   </a>
 </p>
 
