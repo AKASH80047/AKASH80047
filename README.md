@@ -9,7 +9,7 @@
 
 I'm a Mobile App Developer specializing in **Flutter & Dart**. I love building clean, scalable, and responsive cross-platform applications with top-notch UI/UX and solid state management (BLoC, GetX, Riverpod).
 
-- 📱 Currently working on **Advanced Flutter Projects (E-Commerce, Dashboards)**
+- 📱 Currently working on **Advanced Flutter Projects (CRM, Expense Trackers, Dashboards)**
 - 💡 Exploring **Clean Architecture & Complex UI Animations** in Flutter
 - 💬 Ask me about **Flutter, Dart, Firebase, API Integrations, State Management**
 - 📫 Connect with me: **[akp991892@gmail.com](mailto:akp991892@gmail.com)** or WhatsApp: **+91 7428342558**
@@ -28,17 +28,11 @@ I'm a Mobile App Developer specializing in **Flutter & Dart**. I love building c
 
 | Project Name | Highlights | Description |
 |--------------|------------|-------------|
-| 🛒 **[E-comerse-App](https://github.com/AKASH80047/E-comerse-App)** | `Flutter`, `GetX`, `UI/Logic` | Fully functional E-Commerce Application demonstrating robust UI design and GetX state management. |
-| 🛍️ **[flutter-Block-E-comerse](https://github.com/AKASH80047/flutter-Block-E-comerse-project)** | `Flutter`, `BLoC Pattern` | Advanced e-commerce application utilizing the BLoC pattern for clean and scalable state management. |
-| 📊 **[Office Dashboard](https://github.com/AKASH80047/Abstract-Media-office-dash-board)** | `Flutter`, `Responsive UI` | Modern, responsive office dashboard application perfectly scaling across devices. |
-| ♻️ **[Eco-bin](https://github.com/AKASH80047/Eco-bin)** | `Flutter`, `Dart` | Eco-friendly waste management and tracking application. |
-| 🍽️ **[Dine-Easy](https://github.com/AKASH80047/Dine-Easy)** | `Flutter`, `App UI` | Seamless restaurant ordering and management application UI. |
-| ✨ **[Flutter-UI-Animation](https://github.com/AKASH80047/Flutter-UI-Animation)** | `Animations`, `Custom UI` | Collection of custom Flutter UI animations and interactive component experiments. |
+| 💼 **[Personal-Support-CRM](https://github.com/AKASH80047/Personal-Support-CRM)** | `Flutter`, `CRM` | Powerful personal support & CRM dashboard built with Flutter. |
+| 💸 **[Expense-Tracker](https://github.com/AKASH80047/Expense-Tracker)** | `Flutter`, `App UI` | Feature-rich personal finance and expense management system. |
+| 🌐 **[Polylingo](https://github.com/AKASH80047/Polylingo-)** | `Flutter`, `Language App` | Polylingo language learning mobile application interface. |
+| 🐄 **[Startup-Dairy-forming](https://github.com/AKASH80047/Startup-Dairy-forming-project-)** | `Flutter`, `Management` | Dairy farming startup project management application. |
+| 🍽️ **[Dine-Easy](https://github.com/AKASH80047/Dine-Easy)** | `Flutter`, `Food App` | Seamless restaurant ordering and food management application UI. |
+| 🏢 **[Industry-Level-Workflow](https://github.com/AKASH80047/Industry-Level-Workflow-Employee-Management-System)** | `Flutter`, `Firebase` | Enterprise Workflow & Employee Management application. |
 
 <br/>
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AKASH80047&show_icons=true&theme=transparent&hide_border=true&title_color=02569B&icon_color=02569B&text_color=333" alt="Akash's GitHub Stats" />
-</p>
